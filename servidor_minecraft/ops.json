@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "300f2cb3-73b8-369a-bd50-5b2db1878249",
+    "name": "Ombid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

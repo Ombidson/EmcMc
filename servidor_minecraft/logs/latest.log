@@ -424,3 +424,404 @@
 [12May2025 03:19:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
 [12May2025 03:19:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 16 [0.0] in minecraft:overworld for krinpa]
 [12May2025 03:19:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:19:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit: Applied 20.0 damage to Rabbit]
+[12May2025 03:19:39.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Rabbit: Applied 20.0 damage to Raw Rabbit]
+[12May2025 03:19:50.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Wolf
+[12May2025 03:19:51.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 16 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:19:51.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:19:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nether Star: Applied 20.0 damage to Nether Star]
+[12May2025 03:19:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prismarine Shard: Applied 20.0 damage to Prismarine Shard]
+[12May2025 03:20:03.244] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=#randList(horse,skeleton_horse,zombie_horse),amount=12,posOffset=#circleOffset(4),NBTTag=(Tame=true,Owner=#pUUIDArray)@luck=1
+[12May2025 03:20:05.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1251, l='ServerLevel[Lucky World Race V1.4]', x=-17.44, y=-9.13, z=74.72] died: Mr. Rainbow didn't want to live in the same world as DacSeed
+[12May2025 03:20:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mr. Rainbow: Applied 20.0 damage to Mr. Rainbow]
+[12May2025 03:20:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:20:05.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yellow Wool: Applied 20.0 damage to Yellow Wool]
+[12May2025 03:20:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:20:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gunpowder: Applied 20.0 damage to Gunpowder]
+[12May2025 03:20:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Carrot: Applied 20.0 damage to Carrot]
+[12May2025 03:20:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Porkchop: Applied 20.0 damage to Raw Porkchop]
+[12May2025 03:20:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bamboo Sign: Applied 20.0 damage to Bamboo Sign]
+[12May2025 03:20:14.283] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=stick@luck=-1
+[12May2025 03:20:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cookie: Applied 20.0 damage to Cookie]
+[12May2025 03:20:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Beef: Applied 20.0 damage to Raw Beef]
+[12May2025 03:20:15.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Rabbit: Applied 20.0 damage to Raw Rabbit]
+[12May2025 03:20:17.230] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(3,20,3),pos=(#pPosX-1,#pPosY-20,#pPosZ-1);type=fill,ID=lava,size=(3,1,3),pos=(#pPosX-1,#pPosY-20,#pPosZ-1);type=fill,ID=cobweb,size=(3,1,3),pos=(#pPosX-1,#pPosY-19,#pPosZ-1))@luck=-2
+[12May2025 03:20:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:20:18.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:20:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 16 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:20:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:20:20.312] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=wooden_sword;ID=wooden_shovel;ID=wooden_pickaxe;ID=wooden_axe;ID=wooden_hoe)@luck=0
+[12May2025 03:20:26.760] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15)@chance=1.5@luck=2
+[12May2025 03:20:31.593] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=nausea,range=4,duration=10;type=effect,ID=hunger,range=3,amplifier=8,duration=10;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=slime;type=particle,ID=item_slime,size=(1.5,0.5,1.5),particleAmount=500)@luck=-2
+[12May2025 03:20:40.321] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=carrot,amount=#rand(8,16);ID=golden_carrot,amount=#rand(4,8));group(ID=potato,amount=#rand(8,16);ID=baked_potato,amount=#rand(4,8);ID=poisonous_potato,amount=#rand(2,4));group(ID=pumpkin_pie,amount=#rand(6,12)))@luck=1
+[12May2025 03:20:42.772] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=golden_sword;ID=golden_shovel;ID=golden_pickaxe;ID=golden_axe;ID=golden_hoe)@luck=1
+[12May2025 03:20:44.453] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=hay_block,amount=8@luck=0
+[12May2025 03:20:46.043] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=gold_ingot,amount=#rand(8,16)@luck=1
+[12May2025 03:20:47.195] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=villager,NBTTag=(VillagerData=(level=3,profession=armorer,type=jungle),Offers=(Recipes=[(buy=(id=diamond,Count=#rand(12,17)),sell=(id=diamond_helmet,Count=1,tag=(Enchantments=#luckyHelmetEnchantments,display=(Name=#jsonStr(text="Hero's Helmet",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(20,25)),sell=(id=diamond_chestplate,Count=1,tag=(Enchantments=#luckyChestplateEnchantments,display=(Name=#jsonStr(text="Hero's Chestplate",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(15,20)),sell=(id=diamond_leggings,Count=1,tag=(Enchantments=#luckyLeggingsEnchantments,display=(Name=#jsonStr(text="Hero's Leggings",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(12,17)),sell=(id=diamond_boots,Count=1,tag=(Enchantments=#luckyBootsEnchantments,display=(Name=#jsonStr(text="Hero's Boots",color=blue,bold=true)))),maxUses=1)]),CustomName=#jsonStr(text="Hero Villager",color=blue,bold=true),CustomNameVisible=true)@luck=1
+[12May2025 03:20:49.475] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(type=structure,ID=lucky_choice_left,rotation=#pDirect;type=structure,ID=lucky_choice_right,rotation=#pDirect)@luck=0
+[12May2025 03:20:50.524] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=giant)@luck=-2
+[12May2025 03:20:51.770] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
+[12May2025 03:20:55.712] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=golden_helmet;ID=golden_chestplate;ID=golden_leggings;ID=golden_boots;ID=golden_horse_armor)@luck=1
+[12May2025 03:20:55.813] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_sword;ID=diamond_shovel;ID=diamond_pickaxe;ID=diamond_axe;ID=diamond_hoe)@luck=2
+[12May2025 03:20:58.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Wolf
+[12May2025 03:20:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 16 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:20:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:21:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:21:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:21:03.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 16 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:21:03.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:21:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:21:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:21:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baked Potato: Applied 20.0 damage to Baked Potato]
+[12May2025 03:21:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Carrot: Applied 20.0 damage to Carrot]
+[12May2025 03:21:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Carrot: Applied 20.0 damage to Golden Carrot]
+[12May2025 03:21:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Sword: Applied 20.0 damage to Golden Sword]
+[12May2025 03:21:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Pickaxe: Applied 20.0 damage to Golden Pickaxe]
+[12May2025 03:21:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Axe: Applied 20.0 damage to Golden Axe]
+[12May2025 03:21:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Hoe: Applied 20.0 damage to Golden Hoe]
+[12May2025 03:21:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Shovel: Applied 20.0 damage to Golden Shovel]
+[12May2025 03:21:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hay Bale: Applied 20.0 damage to Hay Bale]
+[12May2025 03:21:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gold Ingot: Applied 20.0 damage to Gold Ingot]
+[12May2025 03:21:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Poisonous Potato: Applied 20.0 damage to Poisonous Potato]
+[12May2025 03:21:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:21:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gold Nugget: Applied 20.0 damage to Gold Nugget]
+[12May2025 03:21:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wheat: Applied 20.0 damage to Wheat]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blaze Powder: Applied 20.0 damage to Blaze Powder]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond Sword: Applied 20.0 damage to Diamond Sword]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prismarine Crystals: Applied 20.0 damage to Prismarine Crystals]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Music Disc: Applied 20.0 damage to Music Disc]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Salmon: Applied 20.0 damage to Raw Salmon]
+[12May2025 03:21:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Light Gray Wool: Applied 20.0 damage to Light Gray Wool]
+[12May2025 03:21:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jukebox: Applied 20.0 damage to Jukebox]
+[12May2025 03:21:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wooden Sword: Applied 20.0 damage to Wooden Sword]
+[12May2025 03:21:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Black Terracotta: Applied 20.0 damage to Black Terracotta]
+[12May2025 03:21:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond Shovel: Applied 20.0 damage to Diamond Shovel]
+[12May2025 03:21:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nether Wart: Applied 20.0 damage to Nether Wart]
+[12May2025 03:21:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghast Tear: Applied 20.0 damage to Ghast Tear]
+[12May2025 03:21:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [White Wool: Applied 20.0 damage to White Wool]
+[12May2025 03:21:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 16 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:21:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:21:13.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lapis Lazuli: Applied 20.0 damage to Lapis Lazuli]
+[12May2025 03:21:21.897] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=villager,NBTTag=(VillagerData=(level=3,profession=toolsmith,type=jungle),Offers=(Recipes=[(buy=(id=diamond,Count=#rand(10,15)),sell=(id=diamond_shovel,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Shovel",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(15,20)),sell=(id=diamond_pickaxe,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Pickaxe",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(15,20)),sell=(id=diamond_axe,Count=1,tag=(Enchantments=#luckyAxeEnchantments,display=(Name=#jsonStr(text="Hero's Axe",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(10,15)),sell=(id=diamond_hoe,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Hoe",color=blue,bold=true)))),maxUses=1)]),CustomName=#jsonStr(text="Hero Villager",color=blue,bold=true),CustomNameVisible=true)@luck=1
+[12May2025 03:21:27.810] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=gold_block));type=particle,ID=flame,size=(1,2,1),particleAmount=500;type=sound,ID=entity.ghast.shoot)@luck=0
+[12May2025 03:21:32.674] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=stick@luck=-1
+[12May2025 03:21:37.095] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=ghast)@chance=0.2@luck=-2
+[12May2025 03:21:44.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 217 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:21:47.428] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=leather_helmet;ID=leather_chestplate;ID=leather_leggings;ID=leather_boots)@luck=0
+[12May2025 03:21:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was fireballed by Ghast
+[12May2025 03:21:51.525] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(2,3):(ID=iron_helmet;ID=iron_chestplate;ID=iron_leggings;ID=iron_boots;ID=iron_horse_armor)@luck=1
+[12May2025 03:21:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Suit Up]
+[12May2025 03:21:52.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 16 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:21:52.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:21:56.086] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=ghast)@chance=0.2@luck=-2
+[12May2025 03:21:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghast: Applied 20.0 damage to Ghast]
+[12May2025 03:21:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghast Tear: Applied 20.0 damage to Ghast Tear]
+[12May2025 03:22:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghast: Applied 20.0 damage to Ghast]
+[12May2025 03:22:08.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gunpowder: Applied 20.0 damage to Gunpowder]
+[12May2025 03:22:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Orange Wool: Applied 20.0 damage to Orange Wool]
+[12May2025 03:22:15.677] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=armor_stand,NBTTag=(Small=true,NoBasePlate=true,ShowArms=true,HandItems=[(id=stone_pickaxe,Count=1)],ArmorItems=[(id=leather_boots,Count=1,tag=(display=(color=#randColor))),(id=leather_leggings,Count=1,tag=(display=(color=#randColor))),(id=leather_chestplate,Count=1,tag=(display=(color=#randColor))),(id=player_head,Count=1,tag=(SkullOwner=#pName))],Rotation=[#pYaw+180f,0f],CustomName=#jsonStr(text="Baby #pName"),CustomNameVisible=true)@luck=0
+[12May2025 03:22:17.322] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15)@chance=1.5@luck=2
+[12May2025 03:22:18.567] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
+[12May2025 03:22:19.061] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,51,1);group(NBTTag=(BlockState=(Name=red_glazed_terracotta)),posY=#bPosY+5;NBTTag=(BlockState=(Name=orange_glazed_terracotta)),posY=#bPosY+10;NBTTag=(BlockState=(Name=yellow_glazed_terracotta)),posY=#bPosY+15;NBTTag=(BlockState=(Name=lime_glazed_terracotta)),posY=#bPosY+20;NBTTag=(BlockState=(Name=light_blue_glazed_terracotta)),posY=#bPosY+25;NBTTag=(BlockState=(Name=blue_glazed_terracotta)),posY=#bPosY+30;NBTTag=(BlockState=(Name=purple_glazed_terracotta)),posY=#bPosY+35;NBTTag=(BlockState=(Name=magenta_glazed_terracotta)),posY=#bPosY+40;NBTTag=(BlockState=(Name=pink_glazed_terracotta)),posY=#bPosY+45),type=entity,ID=falling_block;type=entity,ID=falling_block,NBTTag=(BlockState=(Name=diamond_block)),posY=#bPosY+50;type=entity,ID=lightning_bolt,posY=#bPosY+10,delay=5.3)@luck=2
+[12May2025 03:22:19.824] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0
+[12May2025 03:22:21.944] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=painting,amount=4@luck=0
+[12May2025 03:22:22.712] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[12May2025 03:22:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ice Bucket Challenge]
+[12May2025 03:22:25.711] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=structure,ID=lucky_fort,pos=#pPos@luck=2
+[12May2025 03:22:26.994] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=health_boost,range=4,amplifier=1,duration=600;type=effect,ID=absorption,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=healing;type=entity,ID=horse,NBTTag=(OwnerUUID=#pUUID,ArmorItem=(id=golden_horse_armor,Count=1),SaddleItem=(id=saddle,Count=1)))@luck=2
+[12May2025 03:22:29.047] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=saturation,range=4,amplifier=3,duration=600;type=particle,ID=splashpotion,potion=strength;type=block,ID=cake;type=item,ID=#randList(apple,baked_potato,bread,carrot,cooked_chicken,cooked_salmon,cooked_mutton,cooked_porkchop,cooked_beef,cooked_rabbit,cookie,golden_apple,golden_carrot,melon,mushroom_stew,potato,pumpkin_pie,rabbit_stew,beef,salmon,mutton,porkchop),amount=20)@luck=2
+[12May2025 03:22:29.963] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=beacon@luck=2
+[12May2025 03:22:30.895] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=potion,NBTTag=(Item=(id=splash_potion,tag=(Potion=#randList(night_vision,leaping,fire_resistance,swiftness,water_breathing,healing,regeneration,strength)),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=2
+[12May2025 03:22:31.061] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=nether_star@luck=2
+[12May2025 03:22:32.708] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[12May2025 03:22:32.844] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=invisibility,range=4,duration=300;type=particle,ID=splashpotion,potion=invisibility;type=particle,ID=poof,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=2
+[12May2025 03:22:34.267] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=structure,ID=water_cage,pos=#pPos@luck=-2
+[12May2025 03:22:35.243] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=strength,range=4,amplifier=1,duration=600;type=effect,ID=resistance,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=strength;type=item,ID=iron_sword,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_helmet,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_chestplate,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_leggings,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_boots,posOffset=#circleOffset(0.0,2.0))@luck=2
+[12May2025 03:22:43.164] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=lucky:lucky_sword;type=item,ID=lucky:lucky_bow;type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15);type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag=#randFireworksRocket)),amount=20,posOffset=#circleOffset(0,2))@luck=2
+[12May2025 03:22:49.353] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=dispenser,amount=2;ID=note_block,amount=1;ID=sticky_piston,amount=4;ID=piston,amount=4;ID=tnt,amount=6;ID=lever,amount=2;ID=stone_pressure_plate,amount=2;ID=oak_pressure_plate,amount=2;ID=redstone_torch,amount=8;ID=stone_button,amount=2;ID=oak_trapdoor,amount=2;ID=iron_trapdoor,amount=2;ID=oak_fence_gate,amount=1;ID=redstone_lamp,amount=4;ID=tripwire_hook,amount=2;ID=oak_button,amount=2;ID=light_weighted_pressure_plate,amount=1;ID=heavy_weighted_pressure_plate,amount=1;ID=daylight_detector,amount=1;ID=hopper,amount=4;ID=dropper,amount=#rand(2,4);ID=oak_door,amount=1;ID=iron_door,amount=1;ID=redstone,amount=#rand(32,64);ID=repeater,amount=8;ID=comparator,amount=2;type=particle,ID=splashpotion,potion="healing")@luck=2
+[12May2025 03:22:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melon: Applied 20.0 damage to Melon]
+[12May2025 03:22:52.012] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=rabbit,NBTTag=(RabbitType=99))@luck=-1
+[12May2025 03:22:54.544] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_helmet,NBTTag=(Enchantments=#luckyHelmetEnchantments,display=(Name=#jsonStr(text="Hero's Helmet",color=blue,bold=true)));ID=diamond_chestplate,NBTTag=(Enchantments=#luckyChestplateEnchantments,display=(Name=#jsonStr(text="Hero's Chestplate",color=blue,bold=true)));ID=diamond_leggings,NBTTag=(Enchantments=#luckyLeggingsEnchantments,display=(Name=#jsonStr(text="Hero's Leggings",color=blue,bold=true)));ID=diamond_boots,NBTTag=(Enchantments=#luckyBootsEnchantments,display=(Name=#jsonStr(text="Hero's Boots",color=blue,bold=true))))@luck=2
+[12May2025 03:22:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Cover Me with Diamonds]
+[12May2025 03:23:00.862] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=iron_block));type=particle,ID=large_smoke,size=(1,2,1),particleAmount=500;type=sound,ID=block.fire.extinguish)@luck=0
+[12May2025 03:23:01.695] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=poison,range=4,duration=30;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
+[12May2025 03:23:01.794] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=blindness,range=4,duration=10;type=effect,ID=slowness,range=4,duration=10;type=particle,ID=splashpotion,potion=slowness;type=particle,ID=large_smoke,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=-2
+[12May2025 03:23:02.044] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=special_knockback,power=2.5,range=4,delay=0.1;type=particle,ID=splashpotion,potion=swiftness;type=particle,ID=poof,size=(1.5,1.0,1.5),particleAmount=500)@luck=-2
+[12May2025 03:23:02.645] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=potion,NBTTag=(Item=(id=splash_potion,tag=(Potion=#randList(slowness,harming,poison,weakness)),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=-2
+[12May2025 03:23:04.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/2546, l='ServerLevel[Lucky World Race V1.4]', x=12.43, y=-9.70, z=190.54] died: The Killer Bunny fell out of the world
+[12May2025 03:23:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [The Killer Bunny: Applied 20.0 damage to The Killer Bunny]
+[12May2025 03:23:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Rabbit: Applied 20.0 damage to Raw Rabbit]
+[12May2025 03:23:05.244] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=poison,range=4,duration=30;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
+[12May2025 03:23:05.295] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bow;ID=arrow,amount=#rand(16,32))@luck=1
+[12May2025 03:23:11.661] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=tnt,amount=8@luck=1
+[12May2025 03:23:13.994] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=instant_damage,range=4;type=particle,ID=splashpotion,potion=harming;type=entity,ID=lucky:lucky_projectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
+[12May2025 03:23:14.218] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[12May2025 03:23:15.044] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=special_knockback,power=2.5,range=4,delay=0.1;type=particle,ID=splashpotion,potion=swiftness;type=particle,ID=poof,size=(1.5,1.0,1.5),particleAmount=500)@luck=-2
+[12May2025 03:23:15.994] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=potion,NBTTag=(Item=(id=splash_potion,tag=(Potion=#randList(slowness,harming,poison,weakness)),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=-2
+[12May2025 03:23:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was doomed to fall
+[12May2025 03:23:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 16 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:23:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:23:22.853] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=special_knockback,range=6,excludePlayer=true,power=1.8,pos=#pPos,delay=0.1;type=particle,ID=poof,size=(1.0,0.3,1.0),particleAmount=500,pos=#pExactPos)@luck=2
+[12May2025 03:23:26.755] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=lightning_bolt@luck=2
+[12May2025 03:23:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was struck by lightning whilst fighting Cave Spider
+[12May2025 03:23:28.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -1, 4, 16 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:23:28.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:23:50.044] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=strength,range=4,amplifier=1,duration=600;type=effect,ID=resistance,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=strength;type=item,ID=iron_sword,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_helmet,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_chestplate,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_leggings,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_boots,posOffset=#circleOffset(0.0,2.0))@luck=2
+[12May2025 03:23:51.895] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=anvil;ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10);type=particle,ID=splashpotion,potion=strength)@luck=2
+[12May2025 03:23:55.294] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=experience_bottle,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=#rand(20,30)@luck=2
+[12May2025 03:23:57.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Ice Bucket Challenge]
+[12May2025 03:23:59.594] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=instant_health,range=4,amplifier=3;type=effect,ID=regeneration,range=4,amplifier=1,duration=300;type=particle,ID=splashpotion,potion=healing;type=particle,ID=heart,size=(1.5,0.5,1.5),particleAmount=300)@luck=2
+[12May2025 03:24:02.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 217 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:24:02.693] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=instant_health,range=4,amplifier=3;type=effect,ID=regeneration,range=4,amplifier=1,duration=300;type=particle,ID=splashpotion,potion=healing;type=particle,ID=heart,size=(1.5,0.5,1.5),particleAmount=300)@luck=2
+[12May2025 03:24:04.354] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=lucky:lucky_sword;type=item,ID=lucky:lucky_bow;type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15);type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag=#randFireworksRocket)),amount=20,posOffset=#circleOffset(0,2))@luck=2
+[12May2025 03:24:05.694] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=invisibility,range=4,duration=300;type=particle,ID=splashpotion,potion=invisibility;type=particle,ID=poof,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=2
+[12May2025 03:24:07.595] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=health_boost,range=4,amplifier=1,duration=600;type=effect,ID=absorption,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=healing;type=entity,ID=horse,NBTTag=(OwnerUUID=#pUUID,ArmorItem=(id=golden_horse_armor,Count=1),SaddleItem=(id=saddle,Count=1)))@luck=2
+[12May2025 03:24:12.344] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=experience_bottle,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=#rand(20,30)@luck=2
+[12May2025 03:24:12.964] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(2,3):(ID=chainmail_helmet;ID=chainmail_chestplate;ID=chainmail_leggings;ID=chainmail_boots)@luck=2
+[12May2025 03:24:13.794] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=speed,range=4,amplifier=2,duration=600;type=particle,ID=splashpotion,potion=swiftness;type=item,ID=#randList(cookie,sugar),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=2
+[12May2025 03:24:14.894] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=health_boost,range=4,amplifier=1,duration=600;type=effect,ID=absorption,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=healing;type=entity,ID=horse,NBTTag=(OwnerUUID=#pUUID,ArmorItem=(id=golden_horse_armor,Count=1),SaddleItem=(id=saddle,Count=1)))@luck=2
+[12May2025 03:24:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 217 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:24:16.994] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=anvil;ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10);type=particle,ID=splashpotion,potion=strength)@luck=2
+[12May2025 03:24:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chainmail Boots: Applied 20.0 damage to Chainmail Boots]
+[12May2025 03:24:17.711] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=salmon,amount=#rand(8,16);ID=cooked_salmon,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
+[12May2025 03:24:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chainmail Helmet: Applied 20.0 damage to Chainmail Helmet]
+[12May2025 03:24:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by DacSeed using [Hero's Sword]
+[12May2025 03:24:20.594] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=saturation,range=4,amplifier=3,duration=600;type=particle,ID=splashpotion,potion=strength;type=block,ID=cake;type=item,ID=#randList(apple,baked_potato,bread,carrot,cooked_chicken,cooked_salmon,cooked_mutton,cooked_porkchop,cooked_beef,cooked_rabbit,cookie,golden_apple,golden_carrot,melon,mushroom_stew,potato,pumpkin_pie,rabbit_stew,beef,salmon,mutton,porkchop),amount=20)@luck=2
+[12May2025 03:24:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lucky Potion: Applied 20.0 damage to Lucky Potion]
+[12May2025 03:24:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond: Applied 20.0 damage to Diamond]
+[12May2025 03:24:20.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 16 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:24:20.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:24:27.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 217 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:24:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 217 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:24:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:24:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:24:32.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:24:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:24:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:24:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:24:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:24:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Sword: Applied 20.0 damage to Iron Sword]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sugar: Applied 20.0 damage to Sugar]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond Sword: Applied 20.0 damage to Diamond Sword]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Helmet: Applied 20.0 damage to Iron Helmet]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:24:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Salmon: Applied 20.0 damage to Raw Salmon]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cooked Mutton: Applied 20.0 damage to Cooked Mutton]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Leggings: Applied 20.0 damage to Iron Leggings]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Boots: Applied 20.0 damage to Iron Boots]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Chestplate: Applied 20.0 damage to Iron Chestplate]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anvil: Applied 20.0 damage to Anvil]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cooked Chicken: Applied 20.0 damage to Cooked Chicken]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:24:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Sword: Applied 20.0 damage to Iron Sword]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Cap: Applied 20.0 damage to Leather Cap]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bread: Applied 20.0 damage to Bread]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mushroom Stew: Applied 20.0 damage to Mushroom Stew]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mushroom Stew: Applied 20.0 damage to Mushroom Stew]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Porkchop: Applied 20.0 damage to Raw Porkchop]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Apple: Applied 20.0 damage to Golden Apple]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Carrot: Applied 20.0 damage to Carrot]
+[12May2025 03:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pumpkin Pie: Applied 20.0 damage to Pumpkin Pie]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cookie: Applied 20.0 damage to Cookie]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Potato: Applied 20.0 damage to Potato]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Boots: Applied 20.0 damage to Iron Boots]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Boots: Applied 20.0 damage to Iron Boots]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Leggings: Applied 20.0 damage to Iron Leggings]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Chestplate: Applied 20.0 damage to Iron Chestplate]
+[12May2025 03:24:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Helmet: Applied 20.0 damage to Iron Helmet]
+[12May2025 03:24:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -8, 4, 217 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:24:36.453] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,51,1);type=entity,ID=falling_block,NBTTag=(BlockState=(Name=redstone_block)),posY=#bPosY+5;group(posY=#bPosY+10;posY=#bPosY+15;posY=#bPosY+20;posY=#bPosY+25;posY=#bPosY+30;posY=#bPosY+35;posY=#bPosY+40;posY=#bPosY+45;posY=#bPosY+50),type=entity,ID=falling_block,NBTTag=(BlockState=(Name=tnt)))@luck=2
+[12May2025 03:24:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa blew up
+[12May2025 03:24:43.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lucky Potion: Applied 20.0 damage to Lucky Potion]
+[12May2025 03:24:44.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Purple Wool: Applied 20.0 damage to Purple Wool]
+[12May2025 03:24:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Black Wool: Applied 20.0 damage to Black Wool]
+[12May2025 03:24:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Quartz Stairs: Applied 20.0 damage to Quartz Stairs]
+[12May2025 03:25:03.356] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=leather_helmet;ID=leather_chestplate;ID=leather_leggings;ID=leather_boots)@luck=0
+[12May2025 03:25:06.938] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=wolf,amount=#rand(5,10),posOffset=#circleOffset(3),NBTTag=(CollarColor=#rand(0,15),Owner=#pUUIDArray,Sitting=true);type=particle,ID="heart",size=(2,0,2),particleAmount=20)@luck=1
+[12May2025 03:25:08.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1585, l='ServerLevel[Lucky World Race V1.4]', x=-3.76, y=4.00, z=115.31] died: Mr. Rainbow was slain by DacSeed
+[12May2025 03:25:10.161] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(type=entity,ID=slime,NBTTag=(Size=10);type=entity,ID=magma_cube,NBTTag=(Size=10))@luck=-2
+[12May2025 03:25:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slime: Applied 20.0 damage to Slime]
+[12May2025 03:25:43.059] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=tnt,NBTTag=(Fuse=50b,Motion=#randLaunchMotion),amount=15@luck=-2
+[12May2025 03:25:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Black Wool: Applied 20.0 damage to Black Wool]
+[12May2025 03:25:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Purple Wool: Applied 20.0 damage to Purple Wool]
+[12May2025 03:25:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Quartz Slab: Applied 20.0 damage to Quartz Slab]
+[12May2025 03:25:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Painting: Applied 20.0 damage to Painting]
+[12May2025 03:26:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:26:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:26:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:26:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Light Blue Wool: Applied 20.0 damage to Light Blue Wool]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stone Pressure Plate: Applied 20.0 damage to Stone Pressure Plate]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blue Wool: Applied 20.0 damage to Blue Wool]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Beef: Applied 20.0 damage to Raw Beef]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mushroom Stew: Applied 20.0 damage to Mushroom Stew]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rotten Flesh: Applied 20.0 damage to Rotten Flesh]
+[12May2025 03:26:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spider Eye: Applied 20.0 damage to Spider Eye]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fermented Spider Eye: Applied 20.0 damage to Fermented Spider Eye]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bow: Applied 20.0 damage to Bow]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prismarine Crystals: Applied 20.0 damage to Prismarine Crystals]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Boots: Applied 20.0 damage to Leather Boots]
+[12May2025 03:26:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Pants: Applied 20.0 damage to Leather Pants]
+[12May2025 03:26:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:26:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported krinpa to -0.740000, 4.000000, -50.650000]
+[12May2025 03:26:33.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set krinpa's game mode to Adventure Mode]
+[12May2025 03:26:33.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:26:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:26:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:26:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emerald: Applied 20.0 damage to Emerald]
+[12May2025 03:26:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ombid a server operator
+[12May2025 03:26:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported krinpa to -0.500000, 4.000000, 13.500000]
+[12May2025 03:26:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set krinpa's game mode to Survival Mode]
+[12May2025 03:26:45.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:26:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:26:46.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Obsidian: Applied 20.0 damage to Obsidian]
+[12May2025 03:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saddle: Applied 20.0 damage to Saddle]
+[12May2025 03:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Horse Armor: Applied 20.0 damage to Iron Horse Armor]
+[12May2025 03:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond Axe: Applied 20.0 damage to Diamond Axe]
+[12May2025 03:26:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Beacon: Applied 20.0 damage to Beacon]
+[12May2025 03:26:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nether Star: Applied 20.0 damage to Nether Star]
+[12May2025 03:26:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Black Concrete: Applied 20.0 damage to Black Concrete]
+[12May2025 03:26:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ender Pearl: Applied 20.0 damage to Ender Pearl]
+[12May2025 03:26:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cooked Salmon: Applied 20.0 damage to Cooked Salmon]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chainmail Helmet: Applied 20.0 damage to Chainmail Helmet]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Boots: Applied 20.0 damage to Golden Boots]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Shovel: Applied 20.0 damage to Iron Shovel]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chainmail Leggings: Applied 20.0 damage to Chainmail Leggings]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Leggings: Applied 20.0 damage to Golden Leggings]
+[12May2025 03:26:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Splash Potion of Harming: Applied 20.0 damage to Splash Potion of Harming]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gold Ingot: Applied 20.0 damage to Gold Ingot]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sea Lantern: Applied 20.0 damage to Sea Lantern]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eye of Ender: Applied 20.0 damage to Eye of Ender]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Quartz Stairs: Applied 20.0 damage to Quartz Stairs]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lucky Bow: Applied 20.0 damage to Lucky Bow]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather: Applied 20.0 damage to Leather]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Horse Armor: Applied 20.0 damage to Golden Horse Armor]
+[12May2025 03:26:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Salmon: Applied 20.0 damage to Raw Salmon]
+[12May2025 03:26:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rabbit Stew: Applied 20.0 damage to Rabbit Stew]
+[12May2025 03:26:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Chestplate: Applied 20.0 damage to Golden Chestplate]
+[12May2025 03:26:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chainmail Chestplate: Applied 20.0 damage to Chainmail Chestplate]
+[12May2025 03:26:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Helmet: Applied 20.0 damage to Golden Helmet]
+[12May2025 03:26:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 16 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:26:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Displaying particle minecraft:happy_villager]
+[12May2025 03:26:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was killed
+[12May2025 03:26:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed DacSeed]
+[12May2025 03:27:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:27:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:27:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:27:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:27:10.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed DacSeed]
+[12May2025 03:27:18.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:27:18.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:27:19.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed DacSeed]
+[12May2025 03:27:35.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:27:38.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:27:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:27:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:27:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:27:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Green Terracotta: Applied 20.0 damage to Green Terracotta]
+[12May2025 03:27:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melon: Applied 20.0 damage to Melon]
+[12May2025 03:27:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dandelion: Applied 20.0 damage to Dandelion]
+[12May2025 03:27:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Tunic: Applied 20.0 damage to Leather Tunic]
+[12May2025 03:27:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Oxeye Daisy: Applied 20.0 damage to Oxeye Daisy]
+[12May2025 03:27:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:27:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:27:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cooked Mutton: Applied 20.0 damage to Cooked Mutton]
+[12May2025 03:27:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crossbow: Applied 20.0 damage to Crossbow]
+[12May2025 03:27:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rotten Flesh: Applied 20.0 damage to Rotten Flesh]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Obsidian: Applied 20.0 damage to Obsidian]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fermented Spider Eye: Applied 20.0 damage to Fermented Spider Eye]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Glistering Melon Slice: Applied 20.0 damage to Glistering Melon Slice]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spider Eye: Applied 20.0 damage to Spider Eye]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [String: Applied 20.0 damage to String]
+[12May2025 03:27:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Poppy: Applied 20.0 damage to Poppy]
+[12May2025 03:27:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:27:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:27:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:27:44.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:27:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:27:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:27:53.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:27:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:27:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:27:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:27:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:27:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:28:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:05.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:28:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:28:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:06.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:28:06.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:28:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fermented Spider Eye: Applied 20.0 damage to Fermented Spider Eye]
+[12May2025 03:28:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Obsidian: Applied 20.0 damage to Obsidian]
+[12May2025 03:28:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:28:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:28:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:15.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:28:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:22.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:28:22.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:25.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:28:25.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:28:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[12May2025 03:28:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:28:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:39.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[12May2025 03:28:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:28:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:28:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:28:49.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:28:49.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:50.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:28:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:28:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:28:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:28:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:28:58.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:29:00.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:29:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:29:23.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:29:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:29:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:29:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:29:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as Ombid
+[12May2025 03:29:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:29:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steak: Applied 20.0 damage to Steak]
+[12May2025 03:29:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:29:33.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
