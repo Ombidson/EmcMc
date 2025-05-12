@@ -2045,3 +2045,552 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12May2025 03:29:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steak: Applied 20.0 damage to Steak]
 [12May2025 03:29:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
 [12May2025 03:29:33.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[12May2025 03:29:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[12May2025 03:29:41.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:29:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:29:42.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky World Race V1.4
+[12May2025 03:29:42.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky World Race V1.4
+[12May2025 03:29:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:29:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:29:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:29:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:29:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:29:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Quartz Stairs: Applied 20.0 damage to Quartz Stairs]
+[12May2025 03:29:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:29:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[12May2025 03:29:49.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:29:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:29:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:29:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:29:55.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:29:55.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:29:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:29:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:29:59.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:03.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:30:03.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:30:04.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:30:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:30:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[12May2025 03:30:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Quartz Stairs: Applied 20.0 damage to Quartz Stairs]
+[12May2025 03:30:12.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:14.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was killed
+[12May2025 03:30:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed DacSeed]
+[12May2025 03:30:16.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:19.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:30:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:26.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:30:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:30:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:30:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:30:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:30:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:30:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:30:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:30:48.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:30:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:30:49.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:50.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1253, l='ServerLevel[Lucky World Race V1.4]', x=6.25, y=4.00, z=97.49] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:30:50.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:30:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:30:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:30:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:00.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1257, l='ServerLevel[Lucky World Race V1.4]', x=4.12, y=4.00, z=99.47] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:31:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:31:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:31:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:31:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:31:02.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:06.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:31:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:31:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:11.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:31:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:31:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:24.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:31:27.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:31:28.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:31:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:31:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:31:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:31:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:31:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:31:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:31:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:31:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:31:54.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1256, l='ServerLevel[Lucky World Race V1.4]', x=-0.55, y=4.00, z=89.13] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:31:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:31:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:04.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1248, l='ServerLevel[Lucky World Race V1.4]', x=5.43, y=4.00, z=100.23] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:32:06.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1250, l='ServerLevel[Lucky World Race V1.4]', x=11.16, y=-9.13, z=101.21] died: Mr. Rainbow didn't want to live in the same world as krinpa
+[12May2025 03:32:06.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mr. Rainbow: Applied 20.0 damage to Mr. Rainbow]
+[12May2025 03:32:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Magenta Wool: Applied 20.0 damage to Magenta Wool]
+[12May2025 03:32:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:32:07.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:32:08.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:32:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:32:15.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:32:15.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:32:15.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:32:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:22.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1258, l='ServerLevel[Lucky World Race V1.4]', x=7.50, y=4.00, z=100.26] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:32:30.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:32:30.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:32:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:35.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:32:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:35.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/1246, l='ServerLevel[Lucky World Race V1.4]', x=-4.43, y=4.00, z=78.67] died: Mr. Rainbow was slain by krinpa
+[12May2025 03:32:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:32:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:32:41.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:32:41.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:32:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:32:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:32:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as Ombid
+[12May2025 03:32:47.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:32:50.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:32:50.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:32:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:32:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yellow Wool: Applied 20.0 damage to Yellow Wool]
+[12May2025 03:32:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Mutton: Applied 20.0 damage to Raw Mutton]
+[12May2025 03:32:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blue Wool: Applied 20.0 damage to Blue Wool]
+[12May2025 03:32:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pink Wool: Applied 20.0 damage to Pink Wool]
+[12May2025 03:32:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Brown Wool: Applied 20.0 damage to Brown Wool]
+[12May2025 03:32:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Orange Wool: Applied 20.0 damage to Orange Wool]
+[12May2025 03:32:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid didn't want to live in the same world as DacSeed
+[12May2025 03:32:51.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:32:51.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-11.55848687327445,0.0
+[12May2025 03:32:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:32:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:32:55.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:32:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:32:59.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.21476941970760688,-11.289138927464936,0.2003315108418633
+[12May2025 03:32:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:32:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:00.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:02.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:33:07.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:08.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:09.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:33:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:33:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:33:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:15.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:21.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.27588819972184897,-10.49079610902799,0.4100378166477867
+[12May2025 03:33:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:33:22.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:23.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:27.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:33:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:33:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:33:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:33.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:33:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:33:34.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:33:37.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:33:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:45.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:49.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:50.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:33:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:33:54.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:33:54.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:33:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:33:59.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as krinpa
+[12May2025 03:33:59.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:00.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:34:01.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[12May2025 03:34:02.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[12May2025 03:34:04.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:34:05.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-12.699393049139687,0.0
+[12May2025 03:34:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:14.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:34:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[12May2025 03:34:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:34:17.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[12May2025 03:34:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:18.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:34:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:34:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:34:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:29.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:34:31.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:35.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:34:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:41.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:41.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:41.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as krinpa
+[12May2025 03:34:41.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:42.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-12.699796858163179,0.019968240298737783
+[12May2025 03:34:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:42.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky World Race V1.4
+[12May2025 03:34:42.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky World Race V1.4
+[12May2025 03:34:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:34:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:45.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-13.127889586247903,0.0
+[12May2025 03:34:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:34:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:34:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 9, 6, 252 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:34:52.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:34:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:34:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:34:58.407] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,3):(ID=skeleton_skull;ID=wither_skeleton_skull;ID=zombie_head;ID=player_head;ID=creeper_head)@luck=0
+[12May2025 03:34:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Spooky Scary Skeleton]
+[12May2025 03:35:00.708] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=baked_potato,amount=64,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=poisonous_potato,amount=32,posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=1
+[12May2025 03:35:03.592] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=message,ID="Your wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,posOffset=#circleOffset(2);ID=baked_potato,amount=64,posY=#bPosY+10,posOffset=#circleOffset(2);ID=poisonous_potato,amount=32,posY=#bPosY+10,posOffset=#circleOffset(2))
+[12May2025 03:35:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Potato: Applied 20.0 damage to Potato]
+[12May2025 03:35:11.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Poisonous Potato: Applied 20.0 damage to Poisonous Potato]
+[12May2025 03:35:12.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:35:13.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:14.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Skeleton Skull: Applied 20.0 damage to Skeleton Skull]
+[12May2025 03:35:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Creeper Head: Applied 20.0 damage to Creeper Head]
+[12May2025 03:35:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wither Skeleton Skull: Applied 20.0 damage to Wither Skeleton Skull]
+[12May2025 03:35:18.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -0.14623875814510257,-10.867409983895087,0.6094643352555522
+[12May2025 03:35:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:35:18.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:35:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:20.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:35:20.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:35:24.755] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=golden_helmet;ID=golden_chestplate;ID=golden_leggings;ID=golden_boots;ID=golden_horse_armor)@luck=1
+[12May2025 03:35:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:35:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:35:25.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Poisonous Potato: Applied 20.0 damage to Poisonous Potato]
+[12May2025 03:35:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:35:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Poisonous Potato: Applied 20.0 damage to Poisonous Potato]
+[12May2025 03:35:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:30.858] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=leather_helmet;ID=leather_chestplate;ID=leather_leggings;ID=leather_boots)@luck=0
+[12May2025 03:35:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:35:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:35:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:35:33.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:35:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:35:35.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Tunic: Applied 20.0 damage to Leather Tunic]
+[12May2025 03:35:36.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Cap: Applied 20.0 damage to Leather Cap]
+[12May2025 03:35:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Pants: Applied 20.0 damage to Leather Pants]
+[12May2025 03:35:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Horse Armor: Applied 20.0 damage to Golden Horse Armor]
+[12May2025 03:35:38.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:35:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:35:38.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-11.549580781916912,0.0
+[12May2025 03:35:38.957] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15)@chance=1.5@luck=2
+[12May2025 03:35:39.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:35:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leather Boots: Applied 20.0 damage to Leather Boots]
+[12May2025 03:35:43.643] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=health_boost,range=4,amplifier=1,duration=600;type=effect,ID=absorption,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=healing;type=entity,ID=horse,NBTTag=(OwnerUUID=#pUUID,ArmorItem=(id=golden_horse_armor,Count=1),SaddleItem=(id=saddle,Count=1)))@luck=2
+[12May2025 03:35:50.356] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=fishing_rod;ID=#randList(cod,pufferfish,salmon,tropical_fish),amount=#rand(10,20))@luck=1
+[12May2025 03:35:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lucky Potion: Applied 20.0 damage to Lucky Potion]
+[12May2025 03:35:51.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:35:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:53.620] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/stronghold_corridor"))@luck=1
+[12May2025 03:35:55.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Suit Up]
+[12May2025 03:35:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:35:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:35:57.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:35:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:35:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:02.908] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(3,20,3),pos=(#pPosX-1,#pPosY-20,#pPosZ-1);type=fill,ID=lava,size=(3,1,3),pos=(#pPosX-1,#pPosY-20,#pPosZ-1);type=fill,ID=cobweb,size=(3,1,3),pos=(#pPosX-1,#pPosY-19,#pPosZ-1))@luck=-2
+[12May2025 03:36:03.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:36:04.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid fell out of the world
+[12May2025 03:36:04.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied 20.0 damage to Ombid]
+[12May2025 03:36:04.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baked Potato: Applied 20.0 damage to Baked Potato]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lucky Potion: Applied 20.0 damage to Lucky Potion]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Potato: Applied 20.0 damage to Potato]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Potato: Applied 20.0 damage to Potato]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Boots: Applied 20.0 damage to Iron Boots]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Leggings: Applied 20.0 damage to Golden Leggings]
+[12May2025 03:36:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Chestplate: Applied 20.0 damage to Iron Chestplate]
+[12May2025 03:36:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Helmet: Applied 20.0 damage to Golden Helmet]
+[12May2025 03:36:05.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:36:05.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:05.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 9, 6, 252 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:36:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:36:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:36:10.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-12.253339474124967,0.0
+[12May2025 03:36:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as krinpa
+[12May2025 03:36:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:15.308] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bucket,amount=#rand(1,2);ID=water_bucket,amount=#rand(1,2);ID=lava_bucket,amount=#rand(1,2);ID=milk_bucket,amount=#rand(1,2))@luck=0
+[12May2025 03:36:16.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Hot Stuff]
+[12May2025 03:36:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:36:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:36:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:19.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.0,-11.549251970690658,0.0
+[12May2025 03:36:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bucket: Applied 20.0 damage to Bucket]
+[12May2025 03:36:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:36:20.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Water Bucket: Applied 20.0 damage to Water Bucket]
+[12May2025 03:36:22.708] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=guardian,NBTTag=(Elder=1))@chance=0.5@luck=-2
+[12May2025 03:36:25.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guardian: Applied 20.0 damage to Guardian]
+[12May2025 03:36:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guardian: Applied 20.0 damage to Guardian]
+[12May2025 03:36:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:36:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Experience Orb: Applied 20.0 damage to Experience Orb]
+[12May2025 03:36:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prismarine Shard: Applied 20.0 damage to Prismarine Shard]
+[12May2025 03:36:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Raw Cod: Applied 20.0 damage to Raw Cod]
+[12May2025 03:36:26.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:36:27.358] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=iron_block));type=particle,ID=large_smoke,size=(1,2,1),particleAmount=500;type=sound,ID=block.fire.extinguish)@luck=0
+[12May2025 03:36:30.959] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=splash_potion,NBTTag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name=#jsonStr(text="Evil Potion",color=dard_red,bold=true)))@luck=1
+[12May2025 03:36:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:36:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:34.807] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)@luck=0
+[12May2025 03:36:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Getting an Upgrade]
+[12May2025 03:36:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:36:36.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:41.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:42.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:36:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stone Shovel: Applied 20.0 damage to Stone Shovel]
+[12May2025 03:36:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stone Hoe: Applied 20.0 damage to Stone Hoe]
+[12May2025 03:36:47.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:36:48.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:36:49.958] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(2,3):(ID=iron_helmet;ID=iron_chestplate;ID=iron_leggings;ID=iron_boots;ID=iron_horse_armor)@luck=1
+[12May2025 03:36:50.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:36:57.008] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
+[12May2025 03:36:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Golden Chestplate: Applied 20.0 damage to Golden Chestplate]
+[12May2025 03:37:01.310] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),amount=#rand(7,10)@luck=1
+[12May2025 03:37:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:01.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:08.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:08.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:08.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:37:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:37:09.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:12.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:14.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:37:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed didn't want to live in the same world as krinpa
+[12May2025 03:37:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:37:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:37:15.761] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_sword;ID=diamond_shovel;ID=diamond_pickaxe;ID=diamond_axe;ID=diamond_hoe)@luck=2
+[12May2025 03:37:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enchanted Book: Applied 20.0 damage to Enchanted Book]
+[12May2025 03:37:16.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:18.907] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
+[12May2025 03:37:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diamond Shovel: Applied 20.0 damage to Diamond Shovel]
+[12May2025 03:37:20.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.03301412948408222,-10.184074939147308,-0.04142866719368499
+[12May2025 03:37:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa fell out of the world
+[12May2025 03:37:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:37:21.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.06722034288460454,-11.314410593457193,0.023407083683025576
+[12May2025 03:37:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for krinpa]
+[12May2025 03:37:22.921] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=cage,pos=#pPos,rotation=#pDirect;type=block,ID=lava,pos=(#pPosX,#pPosY+3,#pPosZ))@luck=-2
+[12May2025 03:37:23.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:27.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa didn't want to live in the same world as DacSeed
+[12May2025 03:37:27.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Applied 20.0 damage to krinpa]
+[12May2025 03:37:28.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:29.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:35.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:35.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Acquire Hardware]
+[12May2025 03:37:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Bars: Applied 20.0 damage to Iron Bars]
+[12May2025 03:37:37.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:41.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:41.758] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_shovel,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Shovel",color=blue,bold=true)));ID=diamond_pickaxe,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Pickaxe",color=blue,bold=true)));ID=diamond_axe,NBTTag=(Enchantments=#luckyAxeEnchantments,display=(Name=#jsonStr(text="Hero's Axe",color=blue,bold=true)));ID=diamond_hoe,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Hoe",color=blue,bold=true)));ID=fishing_rod,NBTTag=(Enchantments=#luckyFishingRodEnchantments,display=(Name=#jsonStr(text="Hero's Fishing Rod",color=blue,bold=true))))@luck=2
+[12May2025 03:37:41.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Iron Horse Armor: Applied 20.0 damage to Iron Horse Armor]
+[12May2025 03:37:42.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:46.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:48.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fishing Rod: Applied 20.0 damage to Fishing Rod]
+[12May2025 03:37:50.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:53.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:56.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:37:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:37:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:37:59.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:02.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:03.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:03.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:16.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:19.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:19.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:20.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:23.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:25.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:26.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Stone Age]
+[12May2025 03:38:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:33.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:39.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:38:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:38:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:38:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:39:05.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:39:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:09.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:39:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:39:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:15.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:39:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:39:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Jump Boost to Ombid]
+[12May2025 03:39:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to 6, 4, 388 [0.0] in minecraft:overworld for Ombid]
+[12May2025 03:39:35.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed fell out of the world
+[12May2025 03:39:35.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Applied 20.0 damage to DacSeed]
+[12May2025 03:39:36.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set spawn point to -4, 10, 247 [0.0] in minecraft:overworld for DacSeed]
+[12May2025 03:39:36.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid was kicked for floating too long!
+[12May2025 03:39:36.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Flying is not enabled on this server
+[12May2025 03:39:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game

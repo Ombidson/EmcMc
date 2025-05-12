@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-12 03:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-12 03:20:11 +0000"
@@ -398,6 +404,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-05-12 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-12 03:24:52 +0000"
     },
     "done": true
   },
@@ -469,6 +481,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:slime": "2025-05-12 03:26:12 +0000",
       "minecraft:zombie": "2025-05-12 03:16:49 +0000"
     },
     "done": false
@@ -518,6 +531,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-12 03:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-12 03:26:01 +0000"
     },
     "done": true
   },
@@ -572,6 +591,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-05-12 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-12 03:26:01 +0000"
     },
     "done": true
   },
@@ -657,6 +682,7 @@
     "criteria": {
       "rabbit": "2025-05-12 03:14:36 +0000",
       "rotten_flesh": "2025-05-12 03:17:28 +0000",
+      "golden_carrot": "2025-05-12 03:26:24 +0000",
       "cod": "2025-05-12 03:17:55 +0000",
       "rabbit_stew": "2025-05-12 03:23:31 +0000"
     },
