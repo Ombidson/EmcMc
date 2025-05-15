@@ -4645,3 +4645,155 @@ Missing minecraft:entity_type:
 [15May2025 23:39:28.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 23:39:28.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15May2025 23:39:30.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Ashes 'n Bones]
+[15May2025 23:39:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Chain Death]
+[15May2025 23:39:32.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Stray
+[15May2025 23:39:32.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-920, y:18, z:1000, dim:minecraft:overworld]
+[15May2025 23:39:32.592] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:39:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:39:39.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:39:39.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:39:39.328] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:39:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:41:03.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [The Cutest Predator]
+[15May2025 23:42:42.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Strong or Careful]
+[15May2025 23:42:42.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Vex
+[15May2025 23:42:42.873] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-857, y:59, z:1019, dim:minecraft:overworld]
+[15May2025 23:42:42.876] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:42:49.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:42:49.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:42:49.579] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:43:04.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:43:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[15May2025 23:43:33.776] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-886, y:69, z:1026, dim:minecraft:overworld]
+[15May2025 23:43:33.780] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:43:40.220] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:43:40.220] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:43:40.259] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:44:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[15May2025 23:44:02.174] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-871, y:61, z:1030, dim:minecraft:overworld]
+[15May2025 23:44:02.183] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:44:08.825] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:44:08.826] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:44:08.859] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:44:28.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Vex
+[15May2025 23:44:28.368] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-858, y:62, z:1019, dim:minecraft:overworld]
+[15May2025 23:44:28.372] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:44:28.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:44:28.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:44:35.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:44:35.040] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:44:35.084] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:44:57.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[15May2025 23:44:57.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-873, y:60, z:1023, dim:minecraft:overworld]
+[15May2025 23:44:57.331] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:45:03.817] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:45:03.818] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:45:03.849] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:45:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:45:39.129] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-880, y:66, z:1034, dim:minecraft:overworld]
+[15May2025 23:45:39.139] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:45:45.532] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:45:45.532] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:45:45.560] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:46:14.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[15May2025 23:46:14.227] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-879, y:66, z:1038, dim:minecraft:overworld]
+[15May2025 23:46:14.236] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:46:20.999] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:46:21.000] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:46:21.030] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:46:38.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Vex
+[15May2025 23:46:38.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-860, y:61, z:1028, dim:minecraft:overworld]
+[15May2025 23:46:38.170] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:46:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[15May2025 23:46:40.574] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-879, y:66, z:1039, dim:minecraft:overworld]
+[15May2025 23:46:40.589] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:46:44.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:46:44.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:46:44.648] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:46:47.153] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:46:47.154] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:46:47.203] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:46:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[15May2025 23:46:57.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-881, y:66, z:1039, dim:minecraft:overworld]
+[15May2025 23:46:57.385] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:47:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Chain Death]
+[15May2025 23:47:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Ravager
+[15May2025 23:47:02.063] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-880, y:66, z:1037, dim:minecraft:overworld]
+[15May2025 23:47:02.068] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:47:03.798] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:47:03.798] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:47:03.804] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:47:08.434] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:47:08.434] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:47:08.465] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:47:16.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:47:16.076] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-880, y:66, z:1039, dim:minecraft:overworld]
+[15May2025 23:47:16.084] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:47:22.439] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:47:22.439] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:47:22.470] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:47:32.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was killed by Evoker using magic
+[15May2025 23:47:32.520] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-860, y:59, z:1028, dim:minecraft:overworld]
+[15May2025 23:47:32.527] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:47:32.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[15May2025 23:47:32.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-880, y:66, z:1039, dim:minecraft:overworld]
+[15May2025 23:47:32.940] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:47:39.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:47:39.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:47:39.067] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:47:39.482] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:47:39.483] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:47:39.527] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:47:58.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Ravager
+[15May2025 23:47:58.663] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-866, y:60, z:1034, dim:minecraft:overworld]
+[15May2025 23:47:58.669] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:48:05.029] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:48:05.029] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:48:05.072] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:48:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:48:07.122] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-880, y:66, z:1042, dim:minecraft:overworld]
+[15May2025 23:48:07.131] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:48:13.934] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:48:13.934] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:48:13.977] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:48:27.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed by Evoker using magic
+[15May2025 23:48:27.571] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:48:34.224] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:48:34.224] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:48:34.265] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:48:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[15May2025 23:48:44.917] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:48:48.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Vindicator
+[15May2025 23:48:48.162] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-881, y:66, z:1036, dim:minecraft:overworld]
+[15May2025 23:48:48.170] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:48:51.382] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:48:51.382] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:48:51.388] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:48:54.542] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:48:54.542] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:48:54.578] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:49:11.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:49:11.319] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:49:12.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Ravager
+[15May2025 23:49:12.712] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-880, y:66, z:1036, dim:minecraft:overworld]
+[15May2025 23:49:12.722] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:49:17.874] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:49:17.874] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:49:17.880] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:49:19.166] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:49:19.166] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:49:19.207] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[15May2025 23:49:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed by Evoker using magic
+[15May2025 23:49:28.527] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-879, y:68, z:1042, dim:minecraft:overworld]
+[15May2025 23:49:28.528] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:49:28.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:49:28.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:49:31.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Vindicator
+[15May2025 23:49:31.212] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-881, y:66, z:1037, dim:minecraft:overworld]
+[15May2025 23:49:31.222] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[15May2025 23:49:35.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:49:35.182] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:49:35.188] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[15May2025 23:49:37.592] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:49:37.592] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15May2025 23:49:37.639] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage

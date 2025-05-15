@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 23:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-15 23:38:25 +0000"
@@ -1247,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-15 23:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:37:49 +0000"
@@ -1286,6 +1298,18 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-05-15 23:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-15 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 23:39:30 +0000"
     },
     "done": true
   },
