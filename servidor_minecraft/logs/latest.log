@@ -361,3 +361,14 @@ Missing minecraft:entity_type:
 [15May2025 23:18:02.720] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
 [15May2025 23:18:09.383] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15May2025 23:18:09.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:20:56.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:24:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Best Friends Forever]
+[15May2025 23:25:57.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[15May2025 23:26:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[15May2025 23:26:42.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:26:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Fortuitous Militia]
+[15May2025 23:26:59.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Fortuitous Militia]
+[15May2025 23:27:57.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[15May2025 23:28:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[15May2025 23:28:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:28:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]

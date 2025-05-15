@@ -805,6 +805,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-15 23:11:20 +0000",
       "minecraft:skeleton": "2025-05-15 23:10:10 +0000",
+      "minecraft:vindicator": "2025-05-15 23:16:23 +0000",
       "minecraft:zombie": "2025-05-15 06:29:28 +0000"
     },
     "done": false
@@ -887,6 +888,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-15 23:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-05-15 23:08:44 +0000"
@@ -899,9 +912,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smelting_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-05-15 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smoking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-05-15 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_campfire_cooking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-05-15 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-15 23:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
     },
     "done": true
   },
@@ -911,15 +984,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-05-15 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-15 23:11:20 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-15 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-05-15 23:17:30 +0000"
     },
     "done": true
   },
