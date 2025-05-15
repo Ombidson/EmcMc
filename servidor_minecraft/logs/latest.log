@@ -331,3 +331,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [15May2025 07:31:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
 [15May2025 07:31:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
 [15May2025 07:31:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
+[15May2025 07:35:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15May2025 07:35:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kkkkjkkkjkkjkjjjj<--[HERE]
+[15May2025 07:38:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Knowledge raises the soul]
