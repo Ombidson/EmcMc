@@ -336,3 +336,5 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [15May2025 07:38:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Knowledge raises the soul]
 [15May2025 07:58:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15May2025 07:58:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hbsnjskdndbsnjskdndndsnjskdndndnjskdndndjskdndndskdndndkdndnddndndndnddndndkddkdkddk<--[HERE]
+[15May2025 08:09:52.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [What a Deal!]
+[15May2025 08:10:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ice Bucket Challenge]
