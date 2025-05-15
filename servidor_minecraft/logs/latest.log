@@ -345,3 +345,19 @@ Missing minecraft:entity_type:
 [15May2025 23:05:49.532] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
 [15May2025 23:08:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Strange Grave Dust]
 [15May2025 23:08:56.465] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Ombid})
+[15May2025 23:11:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Knowledge of Death]
+[15May2025 23:11:20.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Ambush]
+[15May2025 23:11:22.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Voluntary Exile]
+[15May2025 23:11:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Not Today, Thank You]
+[15May2025 23:14:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> -1032 69 1335
+[15May2025 23:15:13.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[15May2025 23:15:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ambush]
+[15May2025 23:15:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Suit Up]
+[15May2025 23:16:02.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Voluntary Exile]
+[15May2025 23:17:21.487] [Worker-Main-18/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15May2025 23:17:27.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5859ms or 117 ticks behind
+[15May2025 23:17:27.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved too quickly! -9.867500730151846,1.1661092609382138,-2.1092620948152216
+[15May2025 23:18:02.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:18:02.720] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:18:09.383] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:18:09.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
