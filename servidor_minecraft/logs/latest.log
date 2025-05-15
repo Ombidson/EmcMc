@@ -281,3 +281,67 @@ Missing minecraft:entity_type:
 [15May2025 22:56:30.625] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
 [15May2025 22:56:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15May2025 22:56:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kkdkkdkdd<--[HERE]
+[15May2025 23:01:32.430] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15May2025 23:01:32.444] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15May2025 23:01:32.449] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15May2025 23:01:32.452] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15May2025 23:01:32.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15May2025 23:01:32.465] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15May2025 23:01:32.468] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15May2025 23:01:32.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15May2025 23:01:32.482] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15May2025 23:01:32.485] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15May2025 23:01:32.487] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15May2025 23:01:32.498] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15May2025 23:01:32.832] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15May2025 23:01:32.833] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15May2025 23:01:32.843] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15May2025 23:01:32.866] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15May2025 23:01:32.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6168db54[id=<null>,name=krinpa,properties={},legacy=false] (/100.104.79.38:51755) lost connection: Disconnected
+[15May2025 23:02:22.717] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15May2025 23:02:22.770] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15May2025 23:02:22.818] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15May2025 23:02:22.869] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15May2025 23:02:22.914] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15May2025 23:02:22.966] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15May2025 23:02:23.017] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15May2025 23:02:23.065] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15May2025 23:02:23.118] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15May2025 23:02:23.165] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15May2025 23:02:23.216] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15May2025 23:02:23.266] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15May2025 23:02:23.498] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15May2025 23:02:23.498] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15May2025 23:02:23.502] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15May2025 23:02:23.512] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15May2025 23:02:23.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42524ed1[id=<null>,name=krinpa,properties={},legacy=false] (/100.104.79.38:51757) lost connection: Disconnected
+[15May2025 23:05:45.223] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15May2025 23:05:45.229] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15May2025 23:05:45.241] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15May2025 23:05:45.299] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15May2025 23:05:45.343] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15May2025 23:05:45.408] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15May2025 23:05:45.448] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15May2025 23:05:45.496] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15May2025 23:05:45.541] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15May2025 23:05:45.594] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15May2025 23:05:45.644] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15May2025 23:05:45.693] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15May2025 23:05:46.009] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15May2025 23:05:46.010] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15May2025 23:05:46.016] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15May2025 23:05:46.034] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15May2025 23:05:49.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:51813] logged in with entity id 1779 at (-972.3000000119209, 64.0, 1484.917038385448)
+[15May2025 23:05:49.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[15May2025 23:05:49.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[15May2025 23:05:49.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[15May2025 23:05:49.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[15May2025 23:05:49.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[15May2025 23:05:49.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[15May2025 23:05:49.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[15May2025 23:05:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[15May2025 23:05:49.109] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[15May2025 23:05:49.112] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[15May2025 23:05:49.532] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[15May2025 23:08:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Strange Grave Dust]
+[15May2025 23:08:56.465] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Ombid})
