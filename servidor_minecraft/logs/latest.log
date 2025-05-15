@@ -1,75 +1,74 @@
-[15May2025 06:51:24.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15May2025 06:51:24.842] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[15May2025 06:51:26.037] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15May2025 06:51:26.114] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/EmcMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15May2025 06:51:26.369] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/EmcMc/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[15May2025 06:51:26.524] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 06:51:26.526] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 06:51:26.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 06:51:26.528] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 06:51:26.941] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15May2025 06:51:26.943] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[15May2025 06:51:30.357] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
-[15May2025 06:51:30.373] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15May2025 06:51:30.481] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
-[15May2025 06:51:30.573] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15May2025 06:51:30.985] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[15May2025 06:51:31.128] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
-[15May2025 06:51:31.130] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[15May2025 06:51:31.148] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[15May2025 06:51:31.344] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[15May2025 06:51:31.346] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[15May2025 06:51:31.356] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 103 options available, 0 override(s) found
-[15May2025 06:51:31.480] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[15May2025 06:51:31.554] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15May2025 06:51:33.540] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[15May2025 06:51:33.995] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[15May2025 06:51:34.345] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
-[15May2025 06:51:35.064] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.61 s after launch)
-[15May2025 06:51:35.182] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15May2025 06:51:35.183] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15May2025 06:51:35.995] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[15May2025 06:51:35.995] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[15May2025 06:51:35.996] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[15May2025 06:51:37.153] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2086 milliseconds
-[15May2025 06:51:37.240] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
-[15May2025 06:51:37.244] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mdd06e95$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[15May2025 06:51:37.244] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mdd06e95$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[15May2025 06:51:39.097] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
-[15May2025 06:51:39.747] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[15May2025 06:51:40.145] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
-[15May2025 06:51:40.187] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[15May2025 06:51:40.188] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
-[15May2025 06:51:40.313] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
-[15May2025 06:51:41.202] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
-[15May2025 06:51:41.309] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[15May2025 06:51:41.331] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
-[15May2025 06:51:41.332] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
-[15May2025 06:51:41.334] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
-[15May2025 06:51:41.338] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
-[15May2025 06:51:41.381] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
-[15May2025 06:51:41.412] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
-[15May2025 06:51:41.651] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[15May2025 06:51:41.717] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15May2025 06:51:41.741] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[15May2025 06:51:41.742] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[15May2025 06:51:44.314] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[15May2025 06:51:44.323] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[15May2025 06:51:44.325] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[15May2025 06:51:44.327] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[15May2025 06:51:44.850] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[15May2025 06:51:44.862] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
-[15May2025 06:51:44.862] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
-[15May2025 06:51:44.904] [modloading-worker-0/INFO] [com.leecrafts.goofygoober.GoofyGoober/]: HELLO FROM PREINIT
-[15May2025 06:51:44.904] [modloading-worker-0/INFO] [com.leecrafts.goofygoober.GoofyGoober/]: DIRT BLOCK >> minecraft:dirt
-[15May2025 06:51:44.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[15May2025 06:51:44.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[15May2025 06:51:44.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[15May2025 06:51:45.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: OUTDATED Current: 0.12.3+git.50c5c33 Target: 0.12.4
-[15May2025 06:51:45.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[15May2025 06:51:45.330] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[15May2025 06:51:45.334] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[15May2025 06:51:45.335] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[15May2025 22:48:59.071] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15May2025 22:48:59.074] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15May2025 22:48:59.892] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15May2025 22:48:59.946] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/EmcMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15May2025 22:49:00.145] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/EmcMc/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[15May2025 22:49:00.249] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[15May2025 22:49:00.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15May2025 22:49:00.252] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15May2025 22:49:00.253] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/EmcMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15May2025 22:49:00.610] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15May2025 22:49:00.611] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[15May2025 22:49:02.750] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[15May2025 22:49:02.759] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15May2025 22:49:02.818] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
+[15May2025 22:49:02.906] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15May2025 22:49:03.019] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[15May2025 22:49:03.150] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
+[15May2025 22:49:03.151] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15May2025 22:49:03.169] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15May2025 22:49:03.254] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[15May2025 22:49:03.257] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[15May2025 22:49:03.264] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 103 options available, 0 override(s) found
+[15May2025 22:49:03.446] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[15May2025 22:49:03.524] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[15May2025 22:49:05.207] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[15May2025 22:49:05.517] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[15May2025 22:49:05.657] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
+[15May2025 22:49:06.022] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.316 s after launch)
+[15May2025 22:49:06.116] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15May2025 22:49:06.117] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15May2025 22:49:06.962] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[15May2025 22:49:06.962] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[15May2025 22:49:06.962] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[15May2025 22:49:07.849] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1824 milliseconds
+[15May2025 22:49:07.903] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[15May2025 22:49:07.904] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md551d5e$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[15May2025 22:49:07.905] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md551d5e$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[15May2025 22:49:09.593] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[15May2025 22:49:10.232] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[15May2025 22:49:10.572] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[15May2025 22:49:10.607] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[15May2025 22:49:10.613] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[15May2025 22:49:10.736] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[15May2025 22:49:11.326] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[15May2025 22:49:11.402] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[15May2025 22:49:11.406] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[15May2025 22:49:11.408] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[15May2025 22:49:11.410] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[15May2025 22:49:11.482] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[15May2025 22:49:11.512] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[15May2025 22:49:11.532] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[15May2025 22:49:11.535] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[15May2025 22:49:11.641] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[15May2025 22:49:11.704] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15May2025 22:49:11.720] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[15May2025 22:49:11.720] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[15May2025 22:49:14.426] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[15May2025 22:49:14.435] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[15May2025 22:49:14.437] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[15May2025 22:49:14.439] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[15May2025 22:49:14.941] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[15May2025 22:49:14.956] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
+[15May2025 22:49:14.957] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[15May2025 22:49:15.000] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[15May2025 22:49:15.001] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[15May2025 22:49:15.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[15May2025 22:49:15.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: OUTDATED Current: 0.12.3+git.50c5c33 Target: 0.12.4
+[15May2025 22:49:15.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[15May2025 22:49:15.465] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[15May2025 22:49:15.469] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[15May2025 22:49:15.469] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
@@ -100,241 +99,185 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 17 more
-[15May2025 06:51:45.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[15May2025 06:51:45.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[15May2025 06:51:45.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[15May2025 06:51:45.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[15May2025 06:51:45.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[15May2025 06:51:45.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[15May2025 06:51:45.924] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15May2025 06:51:45.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[15May2025 06:51:45.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[15May2025 06:51:46.038] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[15May2025 06:51:46.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[15May2025 06:51:46.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[15May2025 06:51:46.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[15May2025 06:51:46.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[15May2025 06:51:46.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[15May2025 06:51:46.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[15May2025 06:51:46.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[15May2025 06:51:46.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[15May2025 06:51:46.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
-[15May2025 06:51:46.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
-[15May2025 06:51:46.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
-[15May2025 06:51:46.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[15May2025 06:51:46.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[15May2025 06:51:46.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15May2025 06:51:46.317] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/EmcMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
-[15May2025 06:51:46.318] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/EmcMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
-[15May2025 06:51:46.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[15May2025 06:51:46.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[15May2025 06:51:46.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[15May2025 06:51:47.958] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
-[15May2025 06:51:48.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[15May2025 06:51:48.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[15May2025 06:51:48.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[15May2025 06:51:48.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[15May2025 06:51:48.964] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[15May2025 06:51:48.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[15May2025 06:51:48.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[15May2025 06:51:48.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[15May2025 06:51:48.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[15May2025 06:51:49.123] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2567 advancements
-[15May2025 06:51:49.130] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[15May2025 06:51:49.131] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[15May2025 06:51:49.131] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[15May2025 06:51:49.131] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[15May2025 06:51:49.147] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[15May2025 06:51:49.150] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[15May2025 06:51:49.150] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[15May2025 06:51:49.151] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[15May2025 06:51:49.152] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[15May2025 06:51:49.403] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 11 milliseconds
-[15May2025 06:51:49.405] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[15May2025 06:51:49.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15May2025 06:51:49.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15May2025 06:51:49.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15May2025 06:51:49.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15May2025 06:51:49.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15May2025 06:51:49.513] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15May2025 06:51:49.589] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15May2025 06:51:49.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15May2025 06:51:49.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15May2025 06:51:49.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15May2025 06:51:49.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15May2025 06:51:49.996] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[15May2025 06:51:50.322] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[15May2025 06:51:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15May2025 06:51:52.168] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 06:51:52.168] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 06:51:52.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 06:51:52.464] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[15May2025 06:51:52.660] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1706 ms
-[15May2025 06:51:52.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.059s)! For help, type "help"
-[15May2025 06:51:52.696] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15May2025 06:51:52.775] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 142025 bytes (in 15 string chunks with the size of 10000)
-[15May2025 06:51:52.776] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
-[15May2025 06:51:52.777] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[15May2025 06:51:52.777] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
-[15May2025 06:51:52.778] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.326 seconds to load
-[15May2025 06:51:52.782] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
-[15May2025 06:53:12.549] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
-[15May2025 06:53:12.551] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
-[15May2025 06:53:12.553] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
-[15May2025 06:55:35.169] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15May2025 06:55:35.213] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15May2025 06:55:35.265] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15May2025 06:55:35.315] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15May2025 06:55:35.364] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15May2025 06:55:35.416] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15May2025 06:55:35.464] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15May2025 06:55:35.512] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15May2025 06:55:35.563] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15May2025 06:55:35.612] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15May2025 06:55:35.663] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15May2025 06:55:35.713] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15May2025 06:55:36.008] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15May2025 06:55:36.009] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15May2025 06:55:36.010] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15May2025 06:55:36.010] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15May2025 06:55:39.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:59445] logged in with entity id 471 at (-971.0128725973656, 63.0, 1488.7427209650664)
-[15May2025 06:55:39.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[15May2025 06:55:39.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[15May2025 06:55:39.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[15May2025 06:55:39.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[15May2025 06:55:39.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[15May2025 06:55:39.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[15May2025 06:55:39.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[15May2025 06:55:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[15May2025 06:55:39.312] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[15May2025 06:55:39.319] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[15May2025 06:55:39.649] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[15May2025 06:57:08.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[15May2025 06:57:08.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[15May2025 06:57:08.140] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[15May2025 06:59:55.014] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15May2025 06:59:55.061] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15May2025 06:59:55.134] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15May2025 06:59:55.165] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15May2025 06:59:55.210] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15May2025 06:59:55.260] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15May2025 06:59:55.310] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15May2025 06:59:55.360] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15May2025 06:59:55.410] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15May2025 06:59:55.460] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15May2025 06:59:55.510] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15May2025 06:59:55.565] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15May2025 06:59:55.893] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15May2025 06:59:55.893] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15May2025 06:59:55.893] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15May2025 06:59:55.919] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15May2025 06:59:58.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:59753] logged in with entity id 907 at (-974.5, 63.0, 1491.5)
-[15May2025 06:59:58.898] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[15May2025 06:59:58.898] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[15May2025 06:59:58.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[15May2025 06:59:58.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[15May2025 06:59:58.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[15May2025 06:59:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[15May2025 06:59:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[15May2025 06:59:58.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[15May2025 06:59:58.952] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[15May2025 06:59:58.955] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[15May2025 06:59:59.064] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[15May2025 07:01:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[15May2025 07:01:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: djsakd<--[HERE]
-[15May2025 07:02:06.365] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15May2025 07:02:06.471] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15May2025 07:02:06.472] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15May2025 07:02:06.510] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15May2025 07:02:06.565] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15May2025 07:02:06.609] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15May2025 07:02:06.666] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15May2025 07:02:06.710] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15May2025 07:02:06.760] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15May2025 07:02:06.810] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15May2025 07:02:06.861] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15May2025 07:02:06.908] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15May2025 07:02:07.118] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15May2025 07:02:07.118] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15May2025 07:02:07.118] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15May2025 07:02:07.119] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15May2025 07:02:10.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:54687] logged in with entity id 1305 at (-938.6674637647179, 32.0, 1398.6797332112412)
-[15May2025 07:02:10.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
-[15May2025 07:02:10.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
-[15May2025 07:02:10.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
-[15May2025 07:02:10.256] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
-[15May2025 07:02:10.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
-[15May2025 07:02:10.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
-[15May2025 07:02:10.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
-[15May2025 07:02:10.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
-[15May2025 07:02:10.320] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
-[15May2025 07:02:10.323] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[15May2025 07:02:10.386] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
-[15May2025 07:02:10.815] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Rabbit['Rabbit'/1347, l='ServerLevel[world]', x=-955.79, y=69.00, z=1231.50]
-[15May2025 07:03:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> qpedo
-[15May2025 07:03:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> q
-[15May2025 07:03:33.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el discord
-[15May2025 07:03:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> q
-[15May2025 07:03:46.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> no hay nada en dc
-[15May2025 07:03:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> me sale 5000 de ms
-[15May2025 07:03:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> pobre negra
-[15May2025 07:03:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :(
-[15May2025 07:04:35.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> prq mc tienes buen ping
-[15May2025 07:04:41.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aironow
-[15May2025 07:05:35.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> puta mierda eh
-[15May2025 07:05:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ya
-[15May2025 07:05:41.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> a dormir
-[15May2025 07:05:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> Te vas ya?
-[15May2025 07:05:49.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ksino me quitan el internet
-[15May2025 07:05:51.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> si we
-[15May2025 07:05:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> Oke
-[15May2025 07:06:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> hoy me andaban regañando por eso
-[15May2025 07:06:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> U_u
-[15May2025 07:06:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> sale
-[15May2025 07:06:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tenemos que jugar mas temprano
-[15May2025 07:06:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pero tu contestas a las 3 am
-[15May2025 07:06:28.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nembre
-[15May2025 07:06:33.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> Yo desde las 12 t contesto nms
-[15May2025 07:06:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> es en la noche pelele
-[15May2025 07:06:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> eres tu la que me dices, juguemos mas noche ñiñiñi
-[15May2025 07:06:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mimimiim
-[15May2025 07:06:56.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> si puedo mañana en el dia jugamos
-[15May2025 07:06:56.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> vieja promedio mentirosa:
-[15May2025 07:07:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> dije la noche por dani
-[15May2025 07:07:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pero ni entro
-[15May2025 07:07:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> XDSKDAKLD
-[15May2025 07:07:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> yo puedo siempre
-[15May2025 07:07:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Polar Bear
-[15May2025 07:07:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Your First Grave]
-[15May2025 07:07:17.776] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
-[15May2025 07:07:25.004] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[15May2025 07:07:25.005] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[15May2025 07:07:27.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ahora si gunai we
-[15May2025 07:07:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> m mataron
-[15May2025 07:07:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[15May2025 07:07:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ahi nos ponemos mañana
-[15May2025 07:07:36.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> sale
-[15May2025 07:07:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mas temprano
-[15May2025 07:07:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> bye bye
-[15May2025 07:07:43.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[15May2025 07:07:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[15May2025 07:07:43.388] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[15May2025 07:08:58.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Here They Come]
-[15May2025 07:20:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server ola
-[15May2025 07:21:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Diamonds!]
-[15May2025 07:25:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Knowledge of Death]
-[15May2025 07:25:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ashes 'n Bones]
-[15May2025 07:26:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [What Was That!?]
-[15May2025 07:31:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:31:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:31:31.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:31:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:31:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:31:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect I'm so hungry, I could eat a horse! from Ombid]
-[15May2025 07:35:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[15May2025 07:35:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kkkkjkkkjkkjkjjjj<--[HERE]
-[15May2025 07:38:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Knowledge raises the soul]
-[15May2025 07:58:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[15May2025 07:58:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hbsnjskdndbsnjskdndndsnjskdndndnjskdndndjskdndndskdndndkdndnddndndndnddndndkddkdkddk<--[HERE]
-[15May2025 08:09:52.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [What a Deal!]
-[15May2025 08:10:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ice Bucket Challenge]
+[15May2025 22:49:15.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[15May2025 22:49:15.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[15May2025 22:49:15.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[15May2025 22:49:15.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[15May2025 22:49:15.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[15May2025 22:49:15.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[15May2025 22:49:15.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[15May2025 22:49:15.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[15May2025 22:49:16.037] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15May2025 22:49:16.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[15May2025 22:49:16.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[15May2025 22:49:16.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[15May2025 22:49:16.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[15May2025 22:49:16.148] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15May2025 22:49:16.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[15May2025 22:49:16.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[15May2025 22:49:16.200] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+goofygoober (version 1.20.1 -> MISSING)
+Things may not work well.
+[15May2025 22:49:16.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[15May2025 22:49:16.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[15May2025 22:49:16.294] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	goofygoober:steak: 274
+
+[15May2025 22:49:16.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[15May2025 22:49:16.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
+[15May2025 22:49:16.297] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	goofygoober:paper_test: 2849
+
+[15May2025 22:49:16.297] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	goofygoober:crashed: 61
+	goofygoober:fat: 59
+	goofygoober:hallucinating: 63
+	goofygoober:smashed: 62
+	goofygoober:squashed: 60
+
+[15May2025 22:49:16.297] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	goofygoober:doit: 2032
+	goofygoober:fail: 2030
+	goofygoober:impact: 2031
+	goofygoober:mob_skedaddle: 2021
+	goofygoober:player_gorge: 2028
+	goofygoober:player_skedaddle: 2022
+	goofygoober:player_sneak: 2023
+	goofygoober:player_takeoff: 2024
+	goofygoober:scream: 2020
+	goofygoober:snore_loud: 2025
+	goofygoober:snore_mimimi: 2026
+	goofygoober:snore_whistle: 2027
+	goofygoober:teeth_chatter: 2033
+	goofygoober:tomfoolery: 2029
+
+[15May2025 22:49:16.300] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 21 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[15May2025 22:49:16.300] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    goofygoober:doit
+    goofygoober:fail
+    goofygoober:impact
+    goofygoober:mob_skedaddle
+    goofygoober:player_gorge
+    goofygoober:player_skedaddle
+    goofygoober:player_sneak
+    goofygoober:player_takeoff
+    goofygoober:scream
+    goofygoober:snore_loud
+    goofygoober:snore_mimimi
+    goofygoober:snore_whistle
+    goofygoober:teeth_chatter
+    goofygoober:tomfoolery
+
+Missing minecraft:item:
+    goofygoober:paper_test
+
+Missing minecraft:mob_effect:
+    goofygoober:crashed
+    goofygoober:fat
+    goofygoober:hallucinating
+    goofygoober:smashed
+    goofygoober:squashed
+
+Missing minecraft:entity_type:
+    goofygoober:steak
+
+
+[15May2025 22:49:16.300] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[15May2025 22:49:16.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
+[15May2025 22:49:16.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[15May2025 22:49:16.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[15May2025 22:49:16.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15May2025 22:49:16.456] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/EmcMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[15May2025 22:49:16.457] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/EmcMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[15May2025 22:49:16.539] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:goofygoober
+[15May2025 22:49:16.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[15May2025 22:49:16.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[15May2025 22:49:16.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[15May2025 22:49:17.981] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[15May2025 22:49:19.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[15May2025 22:49:19.033] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[15May2025 22:49:19.039] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[15May2025 22:49:19.040] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[15May2025 22:49:19.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[15May2025 22:49:19.043] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[15May2025 22:49:19.050] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[15May2025 22:49:19.051] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[15May2025 22:49:19.055] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[15May2025 22:49:19.167] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2567 advancements
+[15May2025 22:49:19.171] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[15May2025 22:49:19.172] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[15May2025 22:49:19.172] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[15May2025 22:49:19.172] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[15May2025 22:49:19.188] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[15May2025 22:49:19.190] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[15May2025 22:49:19.190] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[15May2025 22:49:19.191] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[15May2025 22:49:19.192] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[15May2025 22:49:19.412] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 8 milliseconds
+[15May2025 22:49:19.413] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[15May2025 22:49:19.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15May2025 22:49:19.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15May2025 22:49:19.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15May2025 22:49:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15May2025 22:49:19.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15May2025 22:49:19.681] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15May2025 22:49:19.768] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15May2025 22:49:19.768] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15May2025 22:49:19.769] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15May2025 22:49:19.769] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15May2025 22:49:19.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15May2025 22:49:19.891] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
+[15May2025 22:49:20.393] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[15May2025 22:49:21.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15May2025 22:49:21.010] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[15May2025 22:49:22.095] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:49:22.136] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:49:22.162] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:49:22.696] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1694 ms
+[15May2025 22:49:22.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.915s)! For help, type "help"
+[15May2025 22:49:22.728] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15May2025 22:49:22.792] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 142025 bytes (in 15 string chunks with the size of 10000)
+[15May2025 22:49:22.853] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[15May2025 22:49:22.853] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[15May2025 22:49:22.854] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
+[15May2025 22:49:22.855] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.149 seconds to load
+[15May2025 22:49:22.858] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[15May2025 22:56:23.411] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[15May2025 22:56:23.414] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[15May2025 22:56:23.415] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[15May2025 22:56:26.423] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15May2025 22:56:26.433] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15May2025 22:56:26.493] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15May2025 22:56:26.533] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15May2025 22:56:26.581] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15May2025 22:56:26.631] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15May2025 22:56:26.680] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15May2025 22:56:26.732] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15May2025 22:56:26.781] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15May2025 22:56:26.831] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15May2025 22:56:26.888] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15May2025 22:56:26.932] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15May2025 22:56:27.231] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15May2025 22:56:27.232] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15May2025 22:56:27.235] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15May2025 22:56:27.241] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15May2025 22:56:30.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:54747] logged in with entity id 469 at (-1024.4179482937927, 77.0, 1244.3095997020307)
+[15May2025 22:56:30.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[15May2025 22:56:30.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[15May2025 22:56:30.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[15May2025 22:56:30.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[15May2025 22:56:30.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[15May2025 22:56:30.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[15May2025 22:56:30.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[15May2025 22:56:30.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[15May2025 22:56:30.526] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[15May2025 22:56:30.531] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[15May2025 22:56:30.625] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[15May2025 22:56:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15May2025 22:56:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kkdkkdkdd<--[HERE]
