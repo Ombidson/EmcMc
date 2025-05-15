@@ -19,13 +19,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-15 07:08:01 +0000",
       "minecraft:frozen_river": "2025-05-15 05:51:19 +0000",
+      "minecraft:dark_forest": "2025-05-15 07:07:31 +0000",
       "minecraft:snowy_plains": "2025-05-15 05:52:06 +0000",
       "minecraft:stony_shore": "2025-05-15 06:19:12 +0000",
       "minecraft:snowy_taiga": "2025-05-15 05:43:41 +0000",
       "minecraft:dripstone_caves": "2025-05-15 07:05:28 +0000",
       "minecraft:grove": "2025-05-15 06:07:22 +0000",
       "minecraft:forest": "2025-05-15 06:26:28 +0000",
+      "minecraft:lush_caves": "2025-05-15 07:13:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-15 06:37:29 +0000"
     },
     "done": false
@@ -592,6 +595,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-15 06:36:27 +0000",
       "minecraft:spider": "2025-05-15 06:35:45 +0000",
+      "minecraft:slime": "2025-05-15 07:07:16 +0000",
       "minecraft:zombie": "2025-05-15 05:56:21 +0000"
     },
     "done": false
@@ -1210,9 +1214,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-15 07:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
     },
     "done": true
   },
@@ -1225,6 +1241,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-15 07:04:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 07:07:25 +0000"
     },
     "done": true
   },
@@ -1252,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
@@ -1261,6 +1289,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-15 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-15 07:09:03 +0000"
     },
     "done": true
   },
@@ -1276,9 +1310,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 07:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
     },
     "done": true
   },
@@ -1297,6 +1343,36 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-15 07:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
     },
     "done": true
   },
@@ -1324,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-15 07:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
@@ -1342,6 +1424,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 07:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
@@ -1354,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-15 07:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-15 07:02:55 +0000"
@@ -1363,6 +1457,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-15 07:09:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 07:09:06 +0000"
     },
     "done": true
   },
@@ -1393,6 +1499,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-15 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-15 07:07:34 +0000"
     },
     "done": true
   },

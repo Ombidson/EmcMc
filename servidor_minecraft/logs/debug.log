@@ -4490,3 +4490,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [15May2025 07:07:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
 [15May2025 07:07:43.388] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
 [15May2025 07:08:58.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Here They Come]
+[15May2025 07:11:52.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 07:11:52.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 07:16:52.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 07:16:52.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 07:20:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server ola
+[15May2025 07:21:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Diamonds!]
