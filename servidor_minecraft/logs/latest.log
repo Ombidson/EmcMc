@@ -372,3 +372,34 @@ Missing minecraft:entity_type:
 [15May2025 23:28:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [15May2025 23:28:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
 [15May2025 23:28:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[15May2025 23:31:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[15May2025 23:31:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:31:37.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[15May2025 23:32:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied effect Night Vision to Ombid]
+[15May2025 23:33:07.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[15May2025 23:33:17.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [A Strange Grave Dust]
+[15May2025 23:33:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:33:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Ol' Betsy]
+[15May2025 23:33:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Take Aim]
+[15May2025 23:34:10.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Removed effect Night Vision from Ombid]
+[15May2025 23:35:24.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.02391271137150852,-11.186365177617226,-0.3628799112204888
+[15May2025 23:36:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:36:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Take Aim]
+[15May2025 23:36:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[15May2025 23:36:55.783] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:37:02.577] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:37:02.577] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15May2025 23:37:16.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:37:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Acquire Hardware]
+[15May2025 23:38:08.776] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Ombid})
+[15May2025 23:38:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[15May2025 23:38:51.215] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15May2025 23:38:51.215] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[15May2025 23:38:51.216] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15May2025 23:38:51.216] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15May2025 23:38:51.216] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15May2025 23:38:51.232] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[15May2025 23:38:57.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15May2025 23:38:57.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15May2025 23:39:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[15May2025 23:39:30.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Ashes 'n Bones]

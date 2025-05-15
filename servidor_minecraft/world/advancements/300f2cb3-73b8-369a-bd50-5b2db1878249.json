@@ -601,6 +601,9 @@
       "minecraft:vindicator": "2025-05-15 23:16:02 +0000",
       "minecraft:spider": "2025-05-15 06:35:45 +0000",
       "minecraft:slime": "2025-05-15 07:07:16 +0000",
+      "minecraft:evoker": "2025-05-15 23:36:34 +0000",
+      "minecraft:witch": "2025-05-15 23:26:59 +0000",
+      "minecraft:vex": "2025-05-15 23:38:52 +0000",
       "minecraft:zombie": "2025-05-15 05:56:21 +0000"
     },
     "done": false
@@ -639,9 +642,11 @@
     "criteria": {
       "cooked_porkchop": "2025-05-15 07:23:16 +0000",
       "cooked_mutton": "2025-05-15 06:31:30 +0000",
+      "sweet_berries": "2025-05-15 23:34:32 +0000",
       "cooked_beef": "2025-05-15 05:57:26 +0000",
       "porkchop": "2025-05-15 23:17:53 +0000",
       "apple": "2025-05-15 23:22:41 +0000",
+      "spider_eye": "2025-05-15 23:34:14 +0000",
       "bread": "2025-05-15 08:06:00 +0000",
       "rotten_flesh": "2025-05-15 07:17:40 +0000",
       "cooked_chicken": "2025-05-15 07:02:31 +0000"
@@ -1950,6 +1955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-15 23:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-15 23:19:25 +0000"
@@ -2016,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-15 23:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-15 23:16:27 +0000"
@@ -2040,6 +2057,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 23:26:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-05-15 23:19:25 +0000"
@@ -2055,6 +2078,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 23:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-15 23:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-15 23:24:48 +0000"
     },
     "done": true
   },
@@ -2091,6 +2126,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 23:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 23:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 23:34:22 +0000"
     },
     "done": true
   },
