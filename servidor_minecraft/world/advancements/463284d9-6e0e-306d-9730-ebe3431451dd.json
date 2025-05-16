@@ -1948,9 +1948,9 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
     "criteria": {
-      "potion": "2025-05-16 07:01:26 +0000"
+      "has_item": "2025-05-16 06:44:32 +0000"
     },
     "done": true
   },
@@ -1960,9 +1960,225 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_ladder": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_item": "2025-05-16 06:44:32 +0000"
+      "potion": "2025-05-16 07:01:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-05-16 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-16 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 20:28:56 +0000"
     },
     "done": true
   },
