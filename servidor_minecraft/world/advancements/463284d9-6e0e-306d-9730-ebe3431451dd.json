@@ -1821,15 +1821,51 @@
     },
     "done": true
   },
-  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "click_keystone": "2025-05-16 06:25:24 +0000"
+      "has_packed_ice": "2025-05-16 06:16:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
     },
     "done": true
   },
   "blue_skies:enter_blinding_dungeon": {
     "criteria": {
       "entered_everbright_blinding_dungeon": "2025-05-16 06:23:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-16 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-05-16 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
+    "criteria": {
+      "has_item": "2025-05-16 06:28:10 +0000"
     },
     "done": true
   },
@@ -1857,39 +1893,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2025-05-16 06:19:56 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/diopside_leggings": {
     "criteria": {
       "has_item": "2025-05-16 06:28:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2025-05-16 06:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-05-16 06:16:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pine_fruit_seeds": {
-    "criteria": {
-      "has_item": "2025-05-16 06:28:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2025-05-16 06:19:56 +0000"
     },
     "done": true
   },
@@ -1923,15 +1929,33 @@
     },
     "done": true
   },
-  "blue_skies:keys": {
-    "criteria": {
-      "obtain_key": "2025-05-16 06:27:26 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/diopside_helmet": {
     "criteria": {
       "has_item": "2025-05-16 06:28:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-05-16 06:33:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2025-05-16 06:44:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2025-05-16 06:56:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
+    "criteria": {
+      "has_item": "2025-05-16 06:44:32 +0000"
     },
     "done": true
   },
