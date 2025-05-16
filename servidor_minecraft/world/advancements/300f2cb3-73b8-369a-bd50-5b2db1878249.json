@@ -34,6 +34,7 @@
       "minecraft:lush_caves": "2025-05-15 07:13:28 +0000",
       "minecraft:flower_forest": "2025-05-16 00:21:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-15 06:37:29 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-16 00:56:03 +0000",
       "minecraft:plains": "2025-05-16 00:20:58 +0000"
     },
     "done": false
@@ -607,11 +608,13 @@
       "minecraft:slime": "2025-05-15 07:07:16 +0000",
       "minecraft:evoker": "2025-05-15 23:36:34 +0000",
       "minecraft:witch": "2025-05-15 23:26:59 +0000",
+      "minecraft:wither_skeleton": "2025-05-16 00:58:47 +0000",
       "minecraft:husk": "2025-05-15 23:39:49 +0000",
       "minecraft:stray": "2025-05-15 23:39:42 +0000",
       "minecraft:enderman": "2025-05-16 00:14:56 +0000",
       "minecraft:vex": "2025-05-15 23:38:52 +0000",
-      "minecraft:zombie": "2025-05-15 05:56:21 +0000"
+      "minecraft:zombie": "2025-05-15 05:56:21 +0000",
+      "minecraft:drowned": "2025-05-16 01:02:59 +0000"
     },
     "done": false
   },
@@ -2199,6 +2202,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-16 00:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-16 00:17:58 +0000"
@@ -2211,15 +2226,33 @@
     },
     "done": false
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-05-16 01:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-16 00:22:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
     },
     "done": true
   },
@@ -2241,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-05-16 00:16:49 +0000"
@@ -2250,6 +2289,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
     },
     "done": true
   },
@@ -2268,6 +2319,30 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-16 00:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-16 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
     },
     "done": true
   },
@@ -2301,9 +2376,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-16 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-16 00:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
     },
     "done": true
   },
@@ -2325,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-16 00:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-16 00:17:58 +0000"
@@ -2334,6 +2445,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-16 00:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:58:33 +0000"
     },
     "done": true
   },
