@@ -3866,3 +3866,28 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 21:17:52.832] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
 [16May2025 21:17:52.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 4 [Blinding Dungeon Key] to Ombid]
 [16May2025 21:17:55.250] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=3873, y=141, z=3057}
+[16May2025 21:19:22.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 21:19:22.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 21:20:39.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 21:20:47.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 21:20:49.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 21:24:22.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 21:24:22.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 21:26:32.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 21:26:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 21:27:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 21:27:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 21:29:22.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 21:29:22.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 21:29:56.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 21:30:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 21:31:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Tragic Magic!]
+[16May2025 21:32:54.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Village Defender]
+[16May2025 21:34:22.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 21:34:22.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 21:35:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16May2025 21:35:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ghhhhh<--[HERE]
+[16May2025 21:37:36.202] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:nature_dungeon took 259 ms
+[16May2025 21:37:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 2080.500000, 88.000000, 1488.500000]
+[16May2025 21:37:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 21:38:03.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
