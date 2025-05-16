@@ -3199,6 +3199,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone_crystal": {
+    "criteria": {
+      "has_item": "2025-05-16 20:53:03 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/taratite_stairs": {
     "criteria": {
       "has_item": "2025-05-16 20:55:52 +0000"
@@ -3211,21 +3217,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
-    "criteria": {
-      "has_item": "2025-05-16 20:57:46 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/taratite_wall": {
     "criteria": {
       "has_item": "2025-05-16 20:55:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
-    "criteria": {
-      "has_item": "2025-05-16 20:57:46 +0000"
     },
     "done": true
   },
@@ -3247,21 +3241,27 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
-    "criteria": {
-      "has_item": "2025-05-16 20:58:02 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone_crystal": {
-    "criteria": {
-      "has_item": "2025-05-16 20:53:03 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/taratite_wall_stonecutting_taratite": {
     "criteria": {
       "has_item": "2025-05-16 20:55:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_stairs_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2025-05-16 20:55:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-16 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-16 20:57:46 +0000"
     },
     "done": true
   },
@@ -3271,9 +3271,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/taratite_stairs_stonecutting_taratite": {
+  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
     "criteria": {
-      "has_item": "2025-05-16 20:55:52 +0000"
+      "has_item": "2025-05-16 20:58:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_chest": {
+    "criteria": {
+      "has_item": "2025-05-16 21:01:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_ladder": {
+    "criteria": {
+      "has_item": "2025-05-16 21:01:22 +0000"
     },
     "done": true
   },
