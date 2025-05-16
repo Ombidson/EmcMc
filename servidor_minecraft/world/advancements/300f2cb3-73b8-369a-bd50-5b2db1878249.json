@@ -2491,6 +2491,24 @@
     },
     "done": false
   },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-16 06:25:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2025-05-16 06:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-16 06:26:03 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/warding_pearl": {
     "criteria": {
       "has_item": "2025-05-16 06:17:14 +0000"
@@ -2602,6 +2620,12 @@
   "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
     "criteria": {
       "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-05-16 06:26:50 +0000"
     },
     "done": true
   },

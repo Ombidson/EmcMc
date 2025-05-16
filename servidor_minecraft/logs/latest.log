@@ -246,3 +246,32 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 06:23:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [The Wizard's Tower]
 [16May2025 06:24:08.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> loroco
 [16May2025 06:26:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Local Brewery]
+[16May2025 06:26:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [1 Down, 3 to go]
+[16May2025 06:27:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[16May2025 06:27:08.862] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 06:27:15.478] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 06:27:15.479] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16May2025 06:27:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:27:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [1 Down, 3 to go]
+[16May2025 06:27:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vindicator
+[16May2025 06:27:43.086] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 06:27:46.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:27:47.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:27:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:27:49.541] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 06:27:49.541] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16May2025 06:27:49.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:28:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Tough to Beat]
+[16May2025 06:32:52.327] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:nature_dungeon took 201 ms
+[16May2025 06:32:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -543.500000, 79.000000, 2288.500000]
+[16May2025 06:33:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 06:33:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Heart of Nature]
+[16May2025 06:33:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 06:33:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 06:33:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[16May2025 06:33:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Heart of Nature]
+[16May2025 06:33:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 06:33:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:34:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 06:34:40.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 06:35:37.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Blue Journal] to krinpa]
