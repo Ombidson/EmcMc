@@ -2223,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-16 00:29:29 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-05-16 00:16:49 +0000"
@@ -2235,9 +2241,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-16 00:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-16 00:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-16 00:29:29 +0000"
     },
     "done": true
   },
@@ -2274,6 +2292,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-16 00:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-16 00:29:29 +0000"
     },
     "done": true
   },
