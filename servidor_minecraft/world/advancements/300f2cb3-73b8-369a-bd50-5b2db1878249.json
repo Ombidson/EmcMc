@@ -2473,5 +2473,23 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-05-16 05:50:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-05-16 05:50:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-05-16 05:50:59 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
