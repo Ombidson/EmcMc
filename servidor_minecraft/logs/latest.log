@@ -64,3 +64,40 @@
 [16May2025 00:43:44.997] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
 [16May2025 00:43:45.047] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
 [16May2025 00:43:45.097] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16May2025 00:43:45.148] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16May2025 00:43:45.204] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16May2025 00:43:45.249] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16May2025 00:43:45.297] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16May2025 00:43:45.353] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16May2025 00:43:45.404] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16May2025 00:43:45.468] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16May2025 00:43:45.501] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16May2025 00:43:45.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16May2025 00:43:46.066] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[16May2025 00:43:46.067] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[16May2025 00:43:46.067] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[16May2025 00:43:46.207] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[16May2025 00:43:48.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[16May2025 00:43:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[16May2025 00:43:48.880] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[16May2025 00:43:48.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:52096] logged in with entity id 17965 at (-1575.120033668686, 86.0, 637.3000000119209)
+[16May2025 00:43:48.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[16May2025 00:43:48.940] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[16May2025 00:43:48.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[16May2025 00:43:48.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[16May2025 00:43:48.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[16May2025 00:43:48.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[16May2025 00:43:48.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[16May2025 00:43:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[16May2025 00:43:49.042] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[16May2025 00:43:49.043] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[16May2025 00:43:49.301] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[16May2025 00:44:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16May2025 00:44:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hhhhjjjjjj<--[HERE]
+[16May2025 00:44:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16May2025 00:44:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjskk<--[HERE]
+[16May2025 00:45:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Cover Me with Diamonds]
+[16May2025 00:46:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Bone Crusher]
+[16May2025 00:53:54.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[16May2025 00:53:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[16May2025 00:53:54.032] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
