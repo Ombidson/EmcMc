@@ -4271,3 +4271,60 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 07:00:52.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed by Witch using magic
 [16May2025 07:00:52.041] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:4789, y:116, z:5156, dim:blue_skies:everbright]
 [16May2025 07:00:52.043] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 07:00:58.549] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 07:00:58.550] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16May2025 07:00:58.556] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[16May2025 07:01:03.748] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 07:01:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[16May2025 07:01:19.681] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[16May2025 07:01:19.681] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 07:01:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Local Brewery]
+[16May2025 07:01:27.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 07:01:27.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 07:01:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 07:01:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 07:02:13.951] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=4785, y=138, z=5137}
+[16May2025 07:02:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[16May2025 07:02:38.440] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:4785, y:130, z:5134, dim:blue_skies:everbright]
+[16May2025 07:02:38.443] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 07:02:38.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -5.7492299066962005,7.035840625044557,7.924328642759974
+[16May2025 07:02:45.238] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 07:02:45.239] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16May2025 07:02:45.246] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[16May2025 07:02:50.270] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 07:02:50.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[16May2025 07:03:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 4785.500000, 130.000000, 6134.500000]
+[16May2025 07:03:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[16May2025 07:04:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 07:04:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[16May2025 07:04:39.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 4785.500000, 130.000000, 5135.500000]
+[16May2025 07:04:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[16May2025 07:04:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 07:04:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 07:05:21.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[16May2025 07:05:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[16May2025 07:05:21.478] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[16May2025 07:05:40.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[16May2025 07:05:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[16May2025 07:05:40.275] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[16May2025 07:06:07.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 07:06:08.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 07:06:08.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 07:06:08.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 07:06:08.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 07:06:08.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 07:06:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[16May2025 07:06:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 07:06:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[16May2025 07:06:08.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16May2025 07:06:08.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 07:06:08.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 07:06:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 07:06:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 07:06:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[16May2025 07:06:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 07:06:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[16May2025 07:06:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16May2025 07:06:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 07:06:08.236] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@63841a8
+[16May2025 07:06:08.236] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

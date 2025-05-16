@@ -2749,6 +2749,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/starlit_button": {
     "criteria": {
       "has_item": "2025-05-16 06:46:38 +0000"
@@ -2791,6 +2797,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-05-16 06:45:41 +0000"
@@ -2812,6 +2824,12 @@
   "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
     "criteria": {
       "has_item": "2025-05-16 06:53:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:50 +0000"
     },
     "done": true
   },
@@ -2851,9 +2869,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/pyrope_helmet": {
     "criteria": {
       "has_item": "2025-05-16 06:52:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:50 +0000"
     },
     "done": true
   },
@@ -2878,6 +2920,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-05-16 06:51:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-05-16 07:00:37 +0000"
     },
     "done": true
   },
@@ -2911,6 +2959,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-05-16 06:45:41 +0000"
@@ -2929,9 +2995,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/starlit_fence_gate": {
     "criteria": {
       "has_item": "2025-05-16 06:46:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:50 +0000"
     },
     "done": true
   },
@@ -2977,9 +3055,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
     "criteria": {
       "has_item": "2025-05-16 06:50:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:37 +0000"
     },
     "done": true
   },
@@ -3007,6 +3103,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/stonecutter_compat": {
     "criteria": {
       "has_item": "2025-05-16 06:53:28 +0000"
@@ -3022,6 +3130,18 @@
   "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
     "criteria": {
       "has_item": "2025-05-16 06:53:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-16 07:00:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:37 +0000"
     },
     "done": true
   },
@@ -3055,6 +3175,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/starlit_sign": {
     "criteria": {
       "has_item": "2025-05-16 06:46:38 +0000"
@@ -3064,6 +3190,12 @@
   "blue_skies:recipes/combat/pyrope_chestplate": {
     "criteria": {
       "has_item": "2025-05-16 06:52:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-05-16 07:00:37 +0000"
     },
     "done": true
   },
