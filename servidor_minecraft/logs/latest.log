@@ -18,3 +18,13 @@
 [16May2025 00:21:28.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [16May2025 00:22:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [We Need to Go Deeper]
 [16May2025 00:22:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[16May2025 00:25:01.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[16May2025 00:25:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 00:25:56.482] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[16May2025 00:26:31.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 00:27:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Skeleton
+[16May2025 00:27:07.744] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 00:27:14.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 00:27:14.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16May2025 00:27:33.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9985, l='ServerLevel[world]', x=-879.00, y=67.00, z=1041.51] died, message: 'Villager was impaled by Drowned'
+[16May2025 00:29:16.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [What Was That!?]
