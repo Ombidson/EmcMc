@@ -4657,3 +4657,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 00:00:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied effect Hero of the Village to Ombid]
 [16May2025 00:01:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [16May2025 00:02:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [What a Deal!]
+[16May2025 00:03:53.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:03:53.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:08:53.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:08:53.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:11:22.819] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16May2025 00:11:22.819] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
