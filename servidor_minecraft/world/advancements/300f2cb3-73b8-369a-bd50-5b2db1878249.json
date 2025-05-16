@@ -3326,6 +3326,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_nature_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-16 21:58:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-16 21:20:26 +0000"

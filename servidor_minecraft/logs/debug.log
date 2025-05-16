@@ -3917,3 +3917,29 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 21:58:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
 [16May2025 21:58:31.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
 [16May2025 21:58:32.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 21:59:22.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 21:59:22.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:00:38.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[16May2025 22:00:38.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[16May2025 22:00:38.770] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[16May2025 22:00:53.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 22:00:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 22:00:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 22:00:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 22:00:53.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 22:00:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 22:00:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[16May2025 22:00:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 22:00:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[16May2025 22:00:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16May2025 22:00:53.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 22:00:53.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[16May2025 22:00:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16May2025 22:00:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 22:00:53.450] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@79fbd19e
+[16May2025 22:00:53.451] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
