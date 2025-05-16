@@ -431,3 +431,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 20:38:41.800] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [16May2025 20:39:04.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 4749.500000, 81.000000, 5181.500000]
 [16May2025 20:41:00.967] [Server thread/INFO] [Scaling Health/]: Blight Polargeist was killed by Ombid
+[16May2025 20:52:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 20:52:56.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied effect Night Vision to Ombid]
+[16May2025 20:53:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 20:53:24.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
