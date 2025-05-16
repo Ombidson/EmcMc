@@ -1809,17 +1809,17 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
-    "criteria": {
-      "has_item": "2025-05-16 05:50:54 +0000"
-    },
-    "done": true
-  },
   "blue_skies:thinking_with_portals": {
     "criteria": {
       "enter_everbright": "2025-05-16 05:50:50 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
+    "criteria": {
+      "has_item": "2025-05-16 05:50:54 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
