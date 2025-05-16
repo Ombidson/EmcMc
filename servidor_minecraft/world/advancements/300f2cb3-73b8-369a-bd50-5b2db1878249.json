@@ -605,6 +605,7 @@
       "minecraft:witch": "2025-05-15 23:26:59 +0000",
       "minecraft:husk": "2025-05-15 23:39:49 +0000",
       "minecraft:stray": "2025-05-15 23:39:42 +0000",
+      "minecraft:enderman": "2025-05-16 00:14:56 +0000",
       "minecraft:vex": "2025-05-15 23:38:52 +0000",
       "minecraft:zombie": "2025-05-15 05:56:21 +0000"
     },
@@ -650,6 +651,7 @@
       "tropical_fish": "2025-05-15 23:41:24 +0000",
       "apple": "2025-05-15 23:22:41 +0000",
       "spider_eye": "2025-05-15 23:34:14 +0000",
+      "potato": "2025-05-16 00:08:59 +0000",
       "bread": "2025-05-15 08:06:00 +0000",
       "rotten_flesh": "2025-05-15 07:17:40 +0000",
       "cooked_chicken": "2025-05-15 07:02:31 +0000"
@@ -2174,9 +2176,69 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-16 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-05-16 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-16 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-16 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-16 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-16 00:17:04 +0000"
     },
     "done": true
   },

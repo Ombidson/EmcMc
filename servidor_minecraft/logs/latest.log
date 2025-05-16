@@ -2,3 +2,19 @@
 [16May2025 00:00:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied effect Hero of the Village to Ombid]
 [16May2025 00:01:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [16May2025 00:02:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [What a Deal!]
+[16May2025 00:14:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[16May2025 00:14:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Ice Bucket Challenge]
+[16May2025 00:15:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16May2025 00:15:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hjjkjjj<--[HERE]
+[16May2025 00:16:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[16May2025 00:16:37.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Who is Cutting Onions?]
+[16May2025 00:16:47.535] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[16May2025 00:16:49.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [We Need to Go Deeper]
+[16May2025 00:16:51.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[16May2025 00:17:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1299.500000, 73.000000, 1200.500000]
+[16May2025 00:19:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :(
+[16May2025 00:20:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[16May2025 00:21:03.055] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16May2025 00:21:28.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[16May2025 00:22:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [We Need to Go Deeper]
+[16May2025 00:22:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
