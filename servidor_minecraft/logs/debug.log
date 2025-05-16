@@ -4227,3 +4227,46 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 05:41:02.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_0
 [16May2025 05:41:02.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_terminator
 [16May2025 05:41:02.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_deco_empty
+[16May2025 05:43:19.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 05:43:19.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 05:43:23.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[16May2025 05:43:23.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[16May2025 05:43:23.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[16May2025 05:43:23.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[16May2025 05:43:23.574] [Worker-Main-11/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16May2025 05:43:23.575] [Worker-Main-11/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 05:43:46.999] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[16May2025 05:43:47.018] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[16May2025 05:43:47.037] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[16May2025 05:43:47.055] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[16May2025 05:43:47.074] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[16May2025 05:43:47.097] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[16May2025 05:43:55.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1963, l='ServerLevel[world]', x=-1037.70, y=75.00, z=1263.70] died, message: 'Villager was slain by Zombie'
+[16May2025 05:43:59.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1964, l='ServerLevel[world]', x=-1037.30, y=75.00, z=1263.70] died, message: 'Villager was slain by Zombie Villager'
+[16May2025 05:44:12.246] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[16May2025 05:44:12.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[16May2025 05:45:23.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1983, l='ServerLevel[world]', x=-1033.51, y=69.00, z=1318.70] died, message: 'Leatherworker was slain by Zombie'
+[16May2025 05:45:27.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2025, l='ServerLevel[world]', x=-1032.30, y=69.00, z=1318.30] died, message: 'Leatherworker was slain by Zombie'
+[16May2025 05:46:14.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -1.8635216058396509,-10.02672408190616,-0.7951106273575306
+[16May2025 05:46:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 05:47:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Gatekeeper
+[16May2025 05:47:55.442] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-1030, y:76, z:1251, dim:minecraft:overworld]
+[16May2025 05:47:55.449] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 05:48:02.042] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 05:48:02.043] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16May2025 05:48:02.056] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[16May2025 05:48:07.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 05:48:19.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 05:48:19.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 05:50:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Forever Bright?]
+[16May2025 05:50:50.349] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 05:50:50.350] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 05:50:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Forever Bright?]
+[16May2025 05:50:59.131] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 05:50:59.131] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 05:51:08.327] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16May2025 05:51:08.327] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16May2025 05:51:13.402] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16May2025 05:51:13.402] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16May2025 05:52:31.321] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[16May2025 05:52:31.321] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]

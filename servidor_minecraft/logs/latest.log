@@ -240,3 +240,16 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 05:36:53.136] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
 [16May2025 05:36:53.466] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
 [16May2025 05:37:52.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1399.500000, 84.000000, 1200.500000]
+[16May2025 05:43:55.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1963, l='ServerLevel[world]', x=-1037.70, y=75.00, z=1263.70] died, message: 'Villager was slain by Zombie'
+[16May2025 05:43:59.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1964, l='ServerLevel[world]', x=-1037.30, y=75.00, z=1263.70] died, message: 'Villager was slain by Zombie Villager'
+[16May2025 05:45:23.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1983, l='ServerLevel[world]', x=-1033.51, y=69.00, z=1318.70] died, message: 'Leatherworker was slain by Zombie'
+[16May2025 05:45:27.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2025, l='ServerLevel[world]', x=-1032.30, y=69.00, z=1318.30] died, message: 'Leatherworker was slain by Zombie'
+[16May2025 05:46:14.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -1.8635216058396509,-10.02672408190616,-0.7951106273575306
+[16May2025 05:46:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 05:47:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Gatekeeper
+[16May2025 05:47:55.449] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[16May2025 05:48:02.042] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 05:48:02.043] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16May2025 05:48:07.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 05:50:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Forever Bright?]
+[16May2025 05:50:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Forever Bright?]
