@@ -1821,5 +1821,29 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-16 06:16:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:19:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

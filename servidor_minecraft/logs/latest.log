@@ -241,3 +241,8 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16May2025 06:13:11.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Bright Future!]
 [16May2025 06:13:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [16May2025 06:15:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[16May2025 06:22:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[16May2025 06:23:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [The Wizard's Tower]
+[16May2025 06:23:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [The Wizard's Tower]
+[16May2025 06:24:08.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> loroco
+[16May2025 06:26:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Local Brewery]

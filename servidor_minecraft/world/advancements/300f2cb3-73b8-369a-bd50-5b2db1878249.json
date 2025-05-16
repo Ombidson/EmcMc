@@ -2491,5 +2491,143 @@
     },
     "done": false
   },
+  "blue_skies:recipes/misc/warding_pearl": {
+    "criteria": {
+      "has_item": "2025-05-16 06:17:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_sign": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_button": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-16 06:20:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-05-16 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2025-05-16 06:13:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_slab": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bluebright_stick": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_door": {
+    "criteria": {
+      "has_item": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2025-05-16 06:13:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
