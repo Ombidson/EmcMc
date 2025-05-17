@@ -399,6 +399,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-17 06:27:37 +0000",
       "sweet_berries": "2025-05-15 23:08:41 +0000",
       "potato": "2025-05-15 06:29:50 +0000",
       "pumpkin_pie": "2025-05-16 05:57:37 +0000",
