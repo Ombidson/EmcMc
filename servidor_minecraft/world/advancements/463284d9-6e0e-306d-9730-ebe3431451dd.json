@@ -2311,6 +2311,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:39:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-17 05:53:40 +0000"
@@ -2320,6 +2332,36 @@
   "blue_skies:recipes/building_blocks/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_sign": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_button": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2025-05-17 06:40:43 +0000"
     },
     "done": true
   },
@@ -2365,6 +2407,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:39:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/pink_dye_from_camellia": {
     "criteria": {
       "has_item": "2025-05-17 05:32:48 +0000"
@@ -2377,15 +2437,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_slab": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bluebright_stick": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/ventium_ingot_from_blasting_raw_ventium": {
     "criteria": {
       "has_item": "2025-05-17 06:07:36 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/bone_meal_from_azulfo": {
     "criteria": {
       "has_item": "2025-05-17 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-17 06:40:43 +0000"
     },
     "done": true
   },
@@ -2413,6 +2497,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cooked_carabeef_from_smelting_carabeef": {
     "criteria": {
       "has_item": "2025-05-17 06:17:14 +0000"
@@ -2434,6 +2530,24 @@
   "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_door": {
+    "criteria": {
+      "has_item": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2025-05-17 06:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:39:34 +0000"
     },
     "done": true
   },

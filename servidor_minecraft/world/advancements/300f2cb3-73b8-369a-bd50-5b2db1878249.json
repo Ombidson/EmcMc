@@ -3560,6 +3560,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 06:44:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-05-17 06:05:25 +0000"
@@ -3575,6 +3581,12 @@
   "blue_skies:recipes/misc/ventium_ingot_from_blasting_raw_ventium": {
     "criteria": {
       "has_item": "2025-05-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/sea_moss_carpet": {
+    "criteria": {
+      "has_item": "2025-05-17 06:38:59 +0000"
     },
     "done": true
   },

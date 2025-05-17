@@ -653,3 +653,17 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 06:25:54.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
 [17May2025 06:26:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [17May2025 06:28:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:35:56.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:35:56.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yjjjjjjj<--[HERE]
+[17May2025 06:36:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:36:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: klkkkhh<--[HERE]
+[17May2025 06:37:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to krinpa]
+[17May2025 06:37:47.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[17May2025 06:40:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> 5379 11 1539
+[17May2025 06:40:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:41:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 5379.500000, 11.000000, 1539.500000]
+[17May2025 06:43:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Armored Frost Spirit
+[17May2025 06:43:43.029] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:43:49.502] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:43:49.503] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:44:01.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 5247.500000, 23.000000, 1550.500000]
