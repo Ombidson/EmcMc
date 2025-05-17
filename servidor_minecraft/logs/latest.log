@@ -219,3 +219,71 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 04:41:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
 [17May2025 04:42:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [The Most Useful Key]
 [17May2025 04:42:06.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [A Fast Comeback]
+[17May2025 04:48:17.993] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17May2025 04:48:18.018] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17May2025 04:48:18.064] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17May2025 04:48:18.113] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17May2025 04:48:18.162] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17May2025 04:48:18.213] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17May2025 04:48:18.263] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17May2025 04:48:18.313] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17May2025 04:48:18.367] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17May2025 04:48:18.413] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17May2025 04:48:18.531] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17May2025 04:48:18.553] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17May2025 04:48:18.797] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17May2025 04:48:18.798] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17May2025 04:48:18.802] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17May2025 04:48:18.809] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17May2025 04:48:21.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50305] logged in with entity id 2169 at (2184.989442393225, 64.0, 1296.2543321818102)
+[17May2025 04:48:21.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[17May2025 04:48:21.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[17May2025 04:48:21.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[17May2025 04:48:21.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[17May2025 04:48:21.876] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[17May2025 04:48:21.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[17May2025 04:48:21.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[17May2025 04:48:21.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[17May2025 04:48:21.913] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[17May2025 04:48:21.915] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[17May2025 04:48:22.022] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[17May2025 04:48:28.104] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17May2025 04:48:28.124] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17May2025 04:48:28.176] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17May2025 04:48:28.222] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17May2025 04:48:28.278] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17May2025 04:48:28.322] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17May2025 04:48:28.382] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17May2025 04:48:28.422] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17May2025 04:48:28.468] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17May2025 04:48:28.517] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17May2025 04:48:28.572] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17May2025 04:48:28.618] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17May2025 04:48:28.909] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17May2025 04:48:28.909] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17May2025 04:48:28.918] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17May2025 04:48:28.918] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17May2025 04:48:31.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DacSeed[/100.66.218.125:62207] logged in with entity id 2349 at (-50.5, 78.0, -137.5)
+[17May2025 04:48:31.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DacSeed
+[17May2025 04:48:31.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DacSeed
+[17May2025 04:48:31.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DacSeed
+[17May2025 04:48:31.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DacSeed
+[17May2025 04:48:31.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DacSeed
+[17May2025 04:48:31.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DacSeed
+[17May2025 04:48:31.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DacSeed
+[17May2025 04:48:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed joined the game
+[17May2025 04:48:31.987] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DacSeed just logged in with id e482fb9d-1662-3de3-a0f9-70a239104a8d
+[17May2025 04:48:32.350] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/DacSeed downloaded
+[17May2025 04:48:32.504] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/d6bcbc90-fdd0-4395-b102-4fd99c69252c downloaded
+[17May2025 04:48:32.505] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[17May2025 04:48:32.507] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/e482fb9d-1662-3de3-a0f9-70a239104a8d
+[17May2025 04:48:32.532] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/DacSeed downloaded
+[17May2025 04:48:32.589] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/capes/d6bcbc90-fdd0-4395-b102-4fd99c69252c downloaded
+[17May2025 04:48:32.590] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded cape for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[17May2025 04:48:32.590] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/capes/e482fb9d-1662-3de3-a0f9-70a239104a8d
+[17May2025 04:49:24.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[17May2025 04:50:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Quite The Boost]
+[17May2025 04:52:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Forever Bright?]
+[17May2025 04:52:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported DacSeed to krinpa]
+[17May2025 04:56:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Bloodthirsty]
+[17May2025 04:56:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Heart of Nature]
