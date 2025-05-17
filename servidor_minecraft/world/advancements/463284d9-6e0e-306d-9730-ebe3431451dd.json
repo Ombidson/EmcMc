@@ -2292,9 +2292,93 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_slab": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/pink_dye_from_camellia": {
     "criteria": {
       "has_item": "2025-05-17 05:32:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:53:40 +0000"
     },
     "done": true
   },

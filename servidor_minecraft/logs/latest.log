@@ -346,3 +346,202 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 05:44:38.752] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [17May2025 05:44:38.752] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [17May2025 05:44:41.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45746, l='ServerLevel[world]', x=3192.65, y=64.00, z=2084.67] died, message: 'Villager bled to death'
+[17May2025 05:44:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Pretty in Pink]
+[17May2025 05:45:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to krinpa]
+[17May2025 05:45:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 05:45:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dddddddffgggge<--[HERE]
+[17May2025 05:45:38.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Whistleshell Crab
+[17May2025 05:45:38.021] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:45:45.264] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:45:45.264] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:46:21.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> 4729 60 2778
+[17May2025 05:47:59.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[17May2025 05:48:33.935] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 3 ms
+[17May2025 05:48:43.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 4080.500000, 69.000000, 1664.500000]
+[17May2025 05:49:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 4080.500000, 170.000000, 1664.500000]
+[17May2025 05:49:28.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Whistleshell Crab
+[17May2025 05:49:28.625] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:49:28.630] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17May2025 05:49:28.631] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[17May2025 05:49:28.631] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17May2025 05:49:28.631] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17May2025 05:49:28.632] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17May2025 05:49:35.274] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:49:35.275] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:49:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported DacSeed to krinpa]
+[17May2025 05:49:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [The Wizard's Tower]
+[17May2025 05:50:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to krinpa]
+[17May2025 05:50:10.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Chain Death]
+[17May2025 05:50:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Vindicator
+[17May2025 05:50:10.874] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:50:10.874] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17May2025 05:50:10.874] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17May2025 05:50:10.875] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17May2025 05:50:10.875] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17May2025 05:50:10.875] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17May2025 05:50:17.350] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:50:17.351] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 05:50:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 4729.500000, 60.000000, 2778.500000]
+[17May2025 05:50:34.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[17May2025 05:50:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported DacSeed to krinpa]
+[17May2025 05:50:39.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 05:52:34.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=4097, y=143, z=1681}
+[17May2025 05:52:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Ombid
+[17May2025 05:52:44.539] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:52:44.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 05:52:51.228] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:52:51.228] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:52:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to Ombid]
+[17May2025 05:52:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported DacSeed to krinpa]
+[17May2025 05:53:33.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:53:33.914] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:53:33.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! -5.780398568314013,8.001335979112156,2.9592947664164058
+[17May2025 05:53:40.778] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:53:40.778] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:53:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 05:53:49.779] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:53:49.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 5.199999988079071,9.121296840539202,-5.199999988079071
+[17May2025 05:53:56.265] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:53:56.265] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:54:11.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Eye of Ender] to DacSeed]
+[17May2025 05:54:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[17May2025 05:54:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to DacSeed]
+[17May2025 05:55:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:55:29.969] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:55:30.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! -3.072113604651804,8.275125000000003,11.199999988079071
+[17May2025 05:55:36.878] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:55:36.878] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:55:49.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to DacSeed]
+[17May2025 05:55:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 05:55:57.226] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17May2025 05:55:57.226] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[17May2025 05:55:57.226] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17May2025 05:55:57.227] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17May2025 05:55:57.227] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[17May2025 05:55:57.234] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:56:03.833] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:56:03.833] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:56:27.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shocked by Summoner
+[17May2025 05:56:27.334] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:56:27.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -7.119913160396663,7.0,1.1567103146105637
+[17May2025 05:56:33.835] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:56:33.835] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:56:39.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:56:39.515] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:56:39.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! 2.5697372001168333,8.0,9.833397772861872
+[17May2025 05:56:45.979] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:56:45.980] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:57:06.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:57:06.565] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:57:06.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! 3.199999988079071,9.275125000000003,12.199999988079071
+[17May2025 05:57:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shocked by Summoner
+[17May2025 05:57:08.876] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:57:08.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -2.685752356388093,8.815394540775713,9.297206917564836
+[17May2025 05:57:13.252] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:57:13.253] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:57:15.567] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:57:15.567] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:57:15.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[17May2025 05:57:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:57:53.418] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:57:53.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 05:57:59.826] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:57:59.826] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:58:22.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to DacSeed]
+[17May2025 05:58:56.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 05:58:56.026] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:58:56.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 3.168345684428459,9.166458388166518,-3.8526248717171256
+[17May2025 05:59:02.503] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:59:02.503] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 05:59:07.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 05:59:07.213] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:59:07.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! 3.112333532253615,8.77451360064731,-4.116440832287935
+[17May2025 05:59:13.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:59:13.625] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 05:59:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by DacSeed
+[17May2025 05:59:40.909] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 05:59:47.683] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:59:47.684] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 05:59:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shocked by Summoner
+[17May2025 05:59:48.165] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:59:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! 7.911223174258339,8.001335979112156,0.6240115493415033
+[17May2025 05:59:54.789] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:59:54.789] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 06:00:10.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[17May2025 06:00:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shocked by Summoner
+[17May2025 06:00:42.125] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:00:42.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 2.5918795474453873,9.629999980330467,11.12268172526501
+[17May2025 06:00:47.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shocked by Summoner
+[17May2025 06:00:47.114] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:00:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! -3.43966084071144,11.0,12.19603080111392
+[17May2025 06:00:48.762] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:00:48.762] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:00:53.910] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:00:53.911] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:01:32.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shocked by Summoner
+[17May2025 06:01:32.615] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:01:39.118] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:01:39.119] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:01:51.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 06:01:51.064] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:01:57.747] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:01:57.748] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:02:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:02:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 06:02:06.478] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:02:06.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -6.199999988079071,7.275125000000003,10.199999988079071
+[17May2025 06:02:14.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:02:14.303] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 06:02:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shocked by Summoner
+[17May2025 06:02:30.115] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:02:30.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 06:02:37.301] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:02:37.302] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:02:42.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 06:02:42.077] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:02:42.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved wrongly!
+[17May2025 06:02:48.520] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:02:48.520] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 06:03:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 06:03:10.618] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:03:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[17May2025 06:03:19.239] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:03:19.239] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:03:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:03:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnnbbvvvvvvhhhhhjj<--[HERE]
+[17May2025 06:03:20.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:03:20.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjj<--[HERE]
+[17May2025 06:03:20.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:03:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhhhjh<--[HERE]
+[17May2025 06:03:25.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shocked by Summoner
+[17May2025 06:03:25.529] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:03:25.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -7.493607621199317,8.922398818526602,2.2458456476329047
+[17May2025 06:03:27.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:03:32.218] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:03:32.218] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:03:47.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shot by Artificial Golem
+[17May2025 06:03:47.618] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:03:47.638] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17May2025 06:03:47.638] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[17May2025 06:03:47.638] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17May2025 06:03:47.638] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17May2025 06:03:47.638] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[17May2025 06:03:47.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! 7.452375013149322,7.0,1.3215911535558007
+[17May2025 06:03:54.227] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:03:54.227] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:04:36.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was shot by Artificial Golem
+[17May2025 06:04:36.415] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:04:36.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! -5.215224076735012,7.0,9.362796643832098
+[17May2025 06:04:43.332] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:04:43.333] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:04:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Summoner's Artificial Golem
+[17May2025 06:04:59.329] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:04:59.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -3.787268338804097,7.5,8.694086659707182
+[17May2025 06:05:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Summoner's Artificial Golem
+[17May2025 06:05:00.815] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 06:05:00.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved too quickly! -0.3605015801413174,8.0,9.554930499134116
+[17May2025 06:05:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:05:07.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:05:07.625] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 06:05:09.013] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:05:09.013] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
