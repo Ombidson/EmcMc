@@ -631,3 +631,21 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 06:13:08.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Tragic Magic!]
 [17May2025 06:14:13.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [17May2025 06:14:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjjjjsf<--[HERE]
+[17May2025 06:16:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Azulfo
+[17May2025 06:16:46.183] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:16:52.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:16:52.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17May2025 06:16:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[17May2025 06:19:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Azulfo
+[17May2025 06:19:32.081] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:19:38.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:19:38.560] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:19:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[17May2025 06:20:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Azulfo
+[17May2025 06:20:31.631] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:20:38.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:20:38.085] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:20:39.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[17May2025 06:20:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 06:20:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yyuujsjksw<--[HERE]
+[17May2025 06:23:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]

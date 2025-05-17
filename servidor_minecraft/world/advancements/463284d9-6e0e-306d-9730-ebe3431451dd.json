@@ -2322,6 +2322,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 06:17:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-17 05:53:40 +0000"
@@ -2343,6 +2349,12 @@
   "blue_skies:recipes/building_blocks/glowing_blinding_slab": {
     "criteria": {
       "has_item": "2025-05-17 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 06:17:14 +0000"
     },
     "done": true
   },
@@ -2370,6 +2382,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
+    "criteria": {
+      "has_item": "2025-05-17 06:17:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-05-17 05:53:40 +0000"
@@ -2391,6 +2409,12 @@
   "blue_skies:recipes/misc/ventium_ingot_from_smelting_raw_ventium": {
     "criteria": {
       "has_item": "2025-05-17 06:07:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smelting_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 06:17:14 +0000"
     },
     "done": true
   },
