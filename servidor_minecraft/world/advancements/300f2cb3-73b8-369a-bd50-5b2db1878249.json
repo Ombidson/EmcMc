@@ -3476,5 +3476,113 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-17 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/star_emitter": {
+    "criteria": {
+      "has_item": "2025-05-17 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_falsite": {
+    "criteria": {
+      "obtain_material": "2025-05-17 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-17 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/falsite_block": {
+    "criteria": {
+      "has_item": "2025-05-17 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_ingot_from_blasting_raw_ventium": {
+    "criteria": {
+      "has_item": "2025-05-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_ventium_block_from_raw_ventium": {
+    "criteria": {
+      "has_item": "2025-05-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_ingot_from_smelting_raw_ventium": {
+    "criteria": {
+      "has_item": "2025-05-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
+    "criteria": {
+      "has_item": "2025-05-17 05:17:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
