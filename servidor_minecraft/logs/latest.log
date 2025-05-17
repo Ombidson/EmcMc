@@ -287,3 +287,20 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 04:52:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported DacSeed to krinpa]
 [17May2025 04:56:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Bloodthirsty]
 [17May2025 04:56:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Heart of Nature]
+[17May2025 04:58:47.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 04:58:53.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 04:59:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Light Up The World!]
+[17May2025 05:01:48.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Now We're Cooking With... Shrooms?]
+[17May2025 05:02:21.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed moved wrongly!
+[17May2025 05:04:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Armored Frost Spirit
+[17May2025 05:04:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Your First Grave]
+[17May2025 05:04:34.186] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:04:40.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:04:40.932] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17May2025 05:04:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to Ombid]
+[17May2025 05:04:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Here They Come]
+[17May2025 05:06:20.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Mysterious Metal]
+[17May2025 05:07:05.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[17May2025 05:07:06.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[17May2025 05:07:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[17May2025 05:07:12.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]

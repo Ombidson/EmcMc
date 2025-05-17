@@ -3470,5 +3470,11 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2025-05-17 05:01:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
