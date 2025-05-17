@@ -510,9 +510,45 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_campfire_cooking_venison": {
+    "criteria": {
+      "has_item": "2025-05-17 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_smelting_venison": {
+    "criteria": {
+      "has_item": "2025-05-17 05:36:09 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-17 05:44:04 +0000"
     },
     "done": true
   },
@@ -522,9 +558,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/warding_pearl": {
+    "criteria": {
+      "has_item": "2025-05-17 05:36:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
     "criteria": {
       "has_item": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
     },
     "done": true
   },
@@ -564,9 +612,39 @@
     },
     "done": true
   },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-05-17 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:craft_food_prep_table": {
+    "criteria": {
+      "obtain_prep_table": "2025-05-17 05:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
     "criteria": {
       "has_item": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 05:35:10 +0000"
     },
     "done": true
   },
@@ -588,6 +666,36 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2025-05-17 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 05:35:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
@@ -597,6 +705,24 @@
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:04 +0000"
     },
     "done": true
   },
@@ -618,9 +744,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-17 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-17 05:31:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:04 +0000"
     },
     "done": true
   },
@@ -642,9 +786,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_carabeef_from_smelting_carabeef": {
+    "criteria": {
+      "has_item": "2025-05-17 05:35:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
     "criteria": {
       "has_item": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_smoking_venison": {
+    "criteria": {
+      "has_item": "2025-05-17 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:04 +0000"
     },
     "done": true
   },

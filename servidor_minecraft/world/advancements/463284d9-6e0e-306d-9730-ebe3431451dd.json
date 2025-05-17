@@ -2292,5 +2292,11 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pink_dye_from_camellia": {
+    "criteria": {
+      "has_item": "2025-05-17 05:32:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

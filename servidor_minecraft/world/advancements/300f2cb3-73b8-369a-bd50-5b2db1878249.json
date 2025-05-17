@@ -3548,6 +3548,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-05-17 05:40:20 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
     "criteria": {
       "has_item": "2025-05-17 05:17:11 +0000"
