@@ -528,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-17 05:20:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
@@ -570,6 +576,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 05:27:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
     "criteria": {
       "has_item": "2025-05-17 05:18:21 +0000"
@@ -600,6 +612,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 05:27:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-05-17 05:17:42 +0000"
@@ -615,6 +633,12 @@
   "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-05-17 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-17 05:27:24 +0000"
     },
     "done": true
   },

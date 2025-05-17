@@ -280,3 +280,49 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 05:23:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 2309.500000, 76.000000, 321.500000]
 [17May2025 05:23:39.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
 [17May2025 05:23:50.238] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17May2025 05:24:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[17May2025 05:24:30.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> hacks?
+[17May2025 05:24:35.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[17May2025 05:24:35.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[17May2025 05:24:35.873] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[17May2025 05:24:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Kicked krinpa: Kicked by an operator]
+[17May2025 05:24:35.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17May2025 05:24:37.233] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{DacSeed})
+[17May2025 05:24:38.719] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17May2025 05:24:38.771] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17May2025 05:24:38.821] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17May2025 05:24:38.873] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17May2025 05:24:38.928] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17May2025 05:24:38.975] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17May2025 05:24:39.022] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17May2025 05:24:39.072] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17May2025 05:24:39.127] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17May2025 05:24:39.178] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17May2025 05:24:39.224] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17May2025 05:24:39.278] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17May2025 05:24:39.446] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17May2025 05:24:39.446] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17May2025 05:24:39.446] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17May2025 05:24:39.499] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17May2025 05:24:42.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:65097] logged in with entity id 17742 at (2309.5, 76.0625, 321.5)
+[17May2025 05:24:42.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[17May2025 05:24:42.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[17May2025 05:24:42.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[17May2025 05:24:42.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[17May2025 05:24:42.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[17May2025 05:24:42.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[17May2025 05:24:42.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[17May2025 05:24:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[17May2025 05:24:42.667] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[17May2025 05:24:42.669] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[17May2025 05:24:42.882] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[17May2025 05:26:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Polargeist
+[17May2025 05:26:53.430] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[17May2025 05:27:02.885] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 05:27:02.886] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 05:27:17.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to DacSeed]
+[17May2025 05:27:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [The Most Useful Key]
+[17May2025 05:27:50.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Knowledge of Death]
+[17May2025 05:27:50.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [A Fast Comeback]
+[17May2025 05:34:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 05:34:08.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kdkkdkdkkdkkkdkkdkdkkkkkkddkdkkdkdkkkkdkdkdkddjjdjjdjdjjdddjjddjjddjddddd<--[HERE]
