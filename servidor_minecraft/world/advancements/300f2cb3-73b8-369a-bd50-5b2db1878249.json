@@ -3584,6 +3584,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_charoite_block_from_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:49:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/sea_moss_carpet": {
     "criteria": {
       "has_item": "2025-05-17 06:38:59 +0000"
@@ -3599,6 +3605,18 @@
   "blue_skies:recipes/misc/ventium_ingot_from_smelting_raw_ventium": {
     "criteria": {
       "has_item": "2025-05-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_blasting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:49:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-05-17 06:49:54 +0000"
     },
     "done": true
   },

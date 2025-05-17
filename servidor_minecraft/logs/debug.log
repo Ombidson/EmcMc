@@ -5467,3 +5467,22 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17May2025 06:44:01.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 5247.500000, 23.000000, 1550.500000]
 [17May2025 06:44:47.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17May2025 06:44:47.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 06:49:47.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 06:49:47.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 06:52:03.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Armored Frost Spirit
+[17May2025 06:52:03.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:5452, y:47, z:1056, dim:blue_skies:everbright]
+[17May2025 06:52:03.882] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:52:10.467] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:52:10.467] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:52:10.473] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[17May2025 06:52:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 5452.500000, 47.000000, 1056.500000]
+[17May2025 06:52:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Armored Frost Spirit
+[17May2025 06:52:34.722] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:5452, y:47, z:1056, dim:blue_skies:everbright]
+[17May2025 06:52:34.728] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[17May2025 06:52:41.424] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17May2025 06:52:41.424] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17May2025 06:52:41.430] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[17May2025 06:53:01.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 5452.500000, 47.000000, 1056.500000]
+[17May2025 06:53:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[17May2025 06:54:47.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 06:54:47.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
