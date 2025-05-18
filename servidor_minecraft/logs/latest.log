@@ -179,3 +179,5 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 00:40:08.870] [Server thread/WARN] [ModernFix/]: Dedicated server took 27.113 seconds to load
 [18May2025 00:40:08.873] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
 [18May2025 00:49:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server ?
+[18May2025 00:59:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 00:59:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dasdasda<--[HERE]
