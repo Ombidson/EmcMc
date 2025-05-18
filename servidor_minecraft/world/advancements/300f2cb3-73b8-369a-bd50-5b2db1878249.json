@@ -3620,6 +3620,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/light_blue_dye_from_frose": {
+    "criteria": {
+      "has_item": "2025-05-17 06:54:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
     "criteria": {
       "has_item": "2025-05-17 05:17:11 +0000"
